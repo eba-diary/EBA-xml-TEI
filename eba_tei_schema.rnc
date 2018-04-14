@@ -11,7 +11,6 @@ namespace xlink = "http://www.w3.org/1999/xlink"
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.3.0/
 #
 
-#
 tei_macro.paraContent =
   (text
    | tei_model.gLike

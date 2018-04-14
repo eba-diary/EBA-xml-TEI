@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="http://www.tei-c.org/ns/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="TEI">
+      <element name="teiHeader">
+        <element name="fileDesc">
+          <element name="titleStmt">
+            <ref name="title"/>
+            <ref name="author"/>
+            <element name="editor">
+              <ref name="persName"/>
+            </element>
+            <element name="respStmt">
+              <element name="resp">
+                <text/>
+              </element>
+              <oneOrMore>
+                <ref name="persName"/>
+              </oneOrMore>
+            </element>
+          </element>
+          <element name="publicationStmt">
+            <element name="publisher">
+              <text/>
+            </element>
+            <ref name="address"/>
+            <element name="availability">
+              <element name="licence">
+                <attribute name="target">
+                  <data type="anyURI"/>
+                </attribute>
+                <text/>
+              </element>
+            </element>
+            <element name="date">
+              <attribute name="when">
+                <data type="integer"/>
+              </attribute>
+              <data type="NMTOKEN"/>
+            </element>
+            <element name="distributor">
+              <text/>
+            </element>
+          </element>
+          <element name="notesStmt">
+            <element name="note">
+              <text/>
+            </element>
+          </element>
+          <element name="sourceDesc">
+            <element name="bibl">
+              <ref name="title"/>
+              <ref name="author"/>
+              <element name="orgName">
+                <attribute name="ref"/>
+                <text/>
+              </element>
+              <ref name="address"/>
+            </element>
+          </element>
+        </element>
+        <element name="encodingDesc">
+          <element name="projectDesc">
+            <ref name="p"/>
+          </element>
+        </element>
+        <element name="profileDesc">
+          <element name="particDesc">
+            <element name="listPerson">
+              <oneOrMore>
+                <element name="person">
+                  <attribute name="role">
+                    <data type="NCName"/>
+                  </attribute>
+                  <attribute name="sex">
+                    <data type="NCName"/>
+                  </attribute>
+                  <ref name="persName"/>
+                  <element name="affiliation">
+                    <text/>
+                  </element>
+                  <element name="occupation">
+                    <text/>
+                  </element>
+                  <element name="listEvent">
+                    <element name="event">
+                      <ref name="p"/>
+                    </element>
+                  </element>
+                </element>
+              </oneOrMore>
+            </element>
+          </element>
+        </element>
+        <element name="revisionDesc">
+          <element name="change">
+            <attribute name="when">
+              <data type="date"/>
+            </attribute>
+            <attribute name="who"/>
+            <ref name="p"/>
+          </element>
+        </element>
+      </element>
+      <element name="text">
+        <element name="body">
+          <oneOrMore>
+            <choice>
+              <ref name="div"/>
+              <ref name="pb"/>
+            </choice>
+          </oneOrMore>
+        </element>
+      </element>
+    </element>
+  </start>
+  <define name="title">
+    <element name="title">
+      <text/>
+    </element>
+  </define>
+  <define name="author">
+    <element name="author">
+      <ref name="persName"/>
+    </element>
+  </define>
+  <define name="persName">
+    <element name="persName">
+      <attribute name="ref"/>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="corr"/>
+          <ref name="pb"/>
+          <ref name="persName"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="address">
+    <element name="address">
+      <element name="addrLine">
+        <text/>
+      </element>
+    </element>
+  </define>
+  <define name="p">
+    <element name="p">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="corr"/>
+          <ref name="name"/>
+          <ref name="pb"/>
+          <ref name="persName"/>
+          <ref name="title"/>
+          <element name="country">
+            <attribute name="ref"/>
+            <data type="NCName"/>
+          </element>
+          <element name="geogName">
+            <attribute name="ref"/>
+            <text/>
+          </element>
+          <element name="placeName">
+            <attribute name="ref"/>
+            <text/>
+          </element>
+          <element name="unclear">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="name"/>
+                <ref name="persName"/>
+              </choice>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="pb">
+    <element name="pb">
+      <attribute name="n">
+        <data type="integer"/>
+      </attribute>
+    </element>
+  </define>
+  <define name="div">
+    <element name="div">
+      <optional>
+        <attribute name="type">
+          <data type="NCName"/>
+        </attribute>
+      </optional>
+      <attribute>
+        <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+        <data type="NCName"/>
+      </attribute>
+      <optional>
+        <ref name="div"/>
+      </optional>
+      <zeroOrMore>
+        <ref name="p"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="corr">
+    <element name="corr">
+      <text/>
+    </element>
+  </define>
+  <define name="name">
+    <element name="name">
+      <attribute name="ref"/>
+      <attribute name="type">
+        <data type="NCName"/>
+      </attribute>
+      <text/>
+    </element>
+  </define>
+</grammar>
