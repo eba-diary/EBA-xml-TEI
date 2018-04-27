@@ -116,7 +116,7 @@
 		<body>
 			<pb n="86"/>
 			<div xml:id="EBA19111016" type="Entry">
-				<p><title><date when="1911-10-16">Sunday, October 16. 1911</date>.</title></p>
+				<p><title><date when="1911-10-16">Sunday, October 16. 1911</date></title>.</p>
 				<p>We left home by <placeName ref="#Fall_River">Fall River</placeName> boat, and
 					reached <placeName ref="#New_York">New York</placeName> the next morning. I did
 					some shopping that day, went to the theatre to hear an amusing play of '<name
@@ -129,7 +129,7 @@
 			</div>
 			<div xml:id="EBA19111021" type="Entry">
 				<p><title><name type="vessel" ref="#SS_Berlin">SS. Berlin</name>. <date
-							when="1911-10-21">Oct. 21st</date>.</title></p>
+							when="1911-10-21">Oct. 21st</date></title>.</p>
 				<p>Sailed this morning for <placeName ref="#Genoa">Genoa</placeName> - where we will
 					wait 15 days for our boat for <placeName ref="#Alexandria"
 						>Alexandria</placeName>. Have my old appartment which is the Captain’s, and
@@ -145,7 +145,7 @@
 			</div>
 			<div xml:id="EBA19111002" type="Entry">
 				<p><title><placeName ref="#Genoa">Genoa</placeName> - <date when="1911-10-02"
-								><sic>Oct. 2.</sic> Wednesday</date></title></p>
+								><sic>Oct. 2.</sic> Wednesday</date></title>.</p>
 				<p>Arrived on a cold, damp morning - came to the <name type="hotel"
 						ref="#Hotel_Miramare">Hotel <hi rend="underline">Miramare</hi></name>
 					<pb n="87"/> which had been recommended to us. Until we passed <placeName
@@ -176,7 +176,7 @@
 					windows of the <name type="hotel" ref="#Hotel_Miramare">Miramare</name> which
 					stands high, but rather close to that busy port. We arrived at <placeName
 						ref="#Alexandria">Alexandria</placeName> on the <date when="1911-11-21"
-						>21st, Nov.</date> having again been cruelly buffetted by that merciless
+						>21st, Nov</date>. having again been cruelly buffetted by that merciless
 						<placeName ref="#Mediterranean_Sea">Mediterranean</placeName>. Arrived in
 						<placeName ref="#Cairo">Cairo</placeName> at 9:20 and were immediately
 					installed in our old pleasant appartment, looking on the garden, which we have
@@ -196,12 +196,12 @@
 						<persName ref="#Trefusis_Mrs">wife</persName> lunched another day.</p>
 			</div>
 			<div xml:id="EBA19111203" type="Entry">
-				<p><title><date when="1911-12-03">Sunday. Dec. 3rd.</date></title></p>
+				<p><title><date when="1911-12-03">Sunday. Dec. 3rd</date></title>.</p>
 				<p>A lot of people this afternoon - and we very busy with all our little
 					settlings.</p>
 			</div>
 			<div xml:id="EBA19111204" type="Entry">
-				<p><title><date when="1911-12-04">Monday. Dec. 4th.</date></title></p>
+				<p><title><date when="1911-12-04">Monday. Dec. 4th</date></title>.</p>
 				<p>Tug arrived about 9 o’clock - and we were off for the opening of the bridge at 10
 					- a good run of about <measure type="distance"><hi rend="underline">25
 							miles</hi></measure>, and tied up about 5 o’clock.</p>
@@ -214,13 +214,13 @@
 							miles</hi></measure>.</p>
 			</div>
 			<div xml:id="EBA19111206" type="Entry">
-				<p><title><date when="1911-12-06">Wednesday. Dec. 6th.</date></title></p>
+				<p><title><date when="1911-12-06">Wednesday. Dec. 6th</date></title>.</p>
 				<p>Went from 6 A.M. to 6 P.M. <measure type="distance"><hi rend="underline">34
 							miles</hi></measure> - a wonderful moon tonight.</p>
 			</div>
 			<pb n="89"/>
 			<div xml:id="EBA19111207" type="Entry">
-				<p><title><date when="1911-12-07">Thursday. Dec. 7th.</date></title></p>
+				<p><title><date when="1911-12-07">Thursday. Dec. 7th</date></title>.</p>
 				<p><measure type="distance"><hi rend="underline">50-1/2 miles</hi></measure> The
 					usual start at 6 A.M. - reached <placeName ref="#Sheikh_Fadl">Sheik
 						Fadl</placeName> at 10, where the tug stopped for coal, so that we sailed
@@ -228,13 +228,13 @@
 					o’clock. A lovely day.</p>
 			</div>
 			<div xml:id="EBA19111208" type="Entry">
-				<p><title><date when="1911-12-08">Friday. Dec. 8th</date></title></p>
+				<p><title><date when="1911-12-08">Friday. Dec. 8th</date>.</title></p>
 				<p><measure type="distance"><hi rend="distance">50 miles</hi></measure> Off at 6
 					A.M. bringing up at 5:30 P.M. at the beginning of the <placeName
 						ref="#Abu_Feda_Gebel">Abu Feda Gebel</placeName>.</p>
 			</div>
 			<div xml:id="EBA19111209" type="Entry">
-				<p><title><date when="1911-12-09">Saturday. Dec. 9th.</date></title></p>
+				<p><title><date when="1911-12-09">Saturday. Dec. 9th</date></title>.</p>
 				<p><measure type="distance"><hi rend="underline">55 miles</hi></measure>. Started at
 					6, but there was such a dense fog, that after slowly feeling our way, we stopped
 					at 7:30 sailed until 4:30, when in a sudden turn of the river, the dahabya
@@ -242,14 +242,14 @@
 					are working at it now.</p>
 			</div>
 			<div xml:id="EBA19111210" type="Entry">
-				<p><title><date when="1911-12-10">Sunday. Dec. 10th.</date></title></p>
+				<p><title><date when="1911-12-10">Sunday. Dec. 10th</date></title>.</p>
 				<p><measure type="distance"><hi rend="underline">34 miles</hi></measure>. The men
 					worked all night, and the tug was able to go on as usual. We landed at
 						<placeName ref="#Asyut">Asyût</placeName> at 10:20, staying until 12 - and
 					tied up at 5:30.</p>
 			</div>
 			<div xml:id="EBA19111211" type="Entry">
-				<p><title><date when="1911-12-11">Monday. Dec. 11th.</date></title></p>
+				<p><title><date when="1911-12-11">Monday. Dec. 11th</date></title>.</p>
 				<p><measure type="distance"><hi rend="underline">43 miles</hi></measure>. The river
 					about here is enormously wide, and the channel difficult, so we have had to
 					proceed cau- <pb n="90"/> tiously - and are now lying at <placeName ref="#Sohag"
@@ -258,7 +258,7 @@
 			<div xml:id="EBA19111212" type="Entry">
 				<div xml:id="EBA19111213" type="Entry">
 					<p><title><date when="1911-12-12">Tuesday. Dec. 12</date> and <date
-								when="1911-12-13">Wed. 13th.</date></title></p>
+								when="1911-12-13">Wed. 13th</date></title>.</p>
 					<p><measure type="distance"><hi rend="underline">51 miles</hi></measure>.
 						Reached <placeName ref="#Nag_Hamadi">Nag Hamadi</placeName> at 7:30, just
 						after the bridge opened, indeed we practically reached it last night. A most
@@ -266,7 +266,7 @@
 				</div>
 			</div>
 			<div xml:id="EBA19111214" type="Entry">
-				<p><title><date when="1911-12-14">Dec. 14th. Thursday</date>.</title></p>
+				<p><title><date when="1911-12-14">Dec. 14th. Thursday</date></title>.</p>
 				<p><measure type="distance"><hi rend="underline">47 miles</hi></measure>. We arrived
 					this afternoon about 3:30, and came very nearly to our old tying ground. The
 					sand bank is vast - and water very shallow. We have made our voyage in 14 days
@@ -281,7 +281,7 @@
 			</div>
 			<div xml:id="EBA19111224" type="Entry">
 				<p><title><date when="1911-12-24">Sunday. Dec. 24th.</date> Fourth Sunday in
-						Advent.</title></p>
+						Advent</title>.</p>
 				<p> I have little to chronicle this week. <persName ref="#Davis_Theodore"
 						>Theo</persName> did not come until the afternoon of the 6th day of his
 					absence - and looking so much better - and happy to be in his beloved <placeName
@@ -309,7 +309,7 @@
 			</div>
 			<div xml:id="EBA19120107" type="Entry">
 				<p><title><date when="1912-01-07">Sunday. 1st after Epiphany. Jan.
-						7th.</date></title></p>
+						7th</date></title>.</p>
 				<p><persName ref="#McQuay_Mr">Mr. Mcquay</persName> and <persName ref="#Baird_Mr"
 						>Mr. Baird</persName> called on New Years Day - and <orgName ref="#Buttles"
 						>the girls</orgName> and I went over to the hotel for tea with <persName
@@ -333,7 +333,7 @@
 			</div>
 			<pb n="92"/>
 			<div xml:id="EBA19120110" type="Entry">
-				<p><title><date when="1912-01-10">Wednesday. Jan. 10th.</date></title></p>
+				<p><title><date when="1912-01-10">Wednesday. Jan. 10th</date></title>.</p>
 				<p>We are having a very cold winter - and this morning the air was so thick the
 					mountains could not be seen. Our little stoves have been in use almost every day
 					lately. <persName ref="#Burton_Harry">Harry Burton</persName> lunched with us
@@ -342,13 +342,13 @@
 						<date when="1912-01-14">Sunday</date>.</p>
 			</div>
 			<div xml:id="EBA19120112" type="Entry">
-				<p><title><date when="1912-01-12">Friday. Jan. 12th.</date></title></p>
+				<p><title><date when="1912-01-12">Friday. Jan. 12th</date></title>.</p>
 				<p><persName ref="#Whiting_Miss">Miss Whiting</persName> and her party came to tea -
 					and <persName ref="#Carter_Howard">Mr. Carter</persName> happened along too, and
 					a nice, long visit.</p>
 			</div>
 			<div xml:id="EBA19120113" type="Entry">
-				<p><title><date when="1912-01-13">Saturday. Jan. 13th.</date></title></p>
+				<p><title><date when="1912-01-13">Saturday. Jan. 13th</date></title>.</p>
 				<p><persName ref="#Layard_Lady">Lady Layard</persName> and her nice <sic>nice</sic>
 					<persName ref="#Alderson_Miss">Miss Alderson</persName> came to tea. <persName
 						ref="#Davis_Theodore">Theo</persName> arrived while they were here, from the
@@ -361,7 +361,7 @@
 				<p><persName ref="#Trefusis_Robert_Capt">Robert Trefusis</persName> to dinner.</p>
 			</div>
 			<div xml:id="EBA19120117" type="Entry">
-				<p><title><date when="1912-01-17">Wednesday. Jan. 17.</date></title></p>
+				<p><title><date when="1912-01-17">Wednesday. Jan. 17</date></title>.</p>
 				<p><persName ref="#Buttles_Mary">Mary</persName> and I called on the <orgName
 						ref="#Gordon_Morris_Adam">Adam Gordon Morris party</orgName>, who have that
 					hideous little <name type="vessel" ref="#Nitocris">Nitocris</name> - a very
@@ -389,7 +389,7 @@
 					way. A charming ride home. A jackal ran across our path and disappeared.</p>
 			</div>
 			<div xml:id="EBA19120124" type="Entry">
-				<p><title><date when="1912-01-24">Wednesday. Jan. 24th.</date></title></p>
+				<p><title><date when="1912-01-24">Wednesday. Jan. 24th</date></title>.</p>
 				<p><persName ref="#Davis_Theodore">Theo</persName> came back from the <placeName
 						ref="#Valley_of_the_Kings">Valley</placeName> on <date when="1912-01-22"
 						>Monday</date> - and returned this afternoon - <persName
@@ -399,7 +399,7 @@
 						<placeName ref="#Medinet_Habu">Medinet Habu</placeName>.</p>
 			</div>
 			<div xml:id="EBA19120126" type="Entry">
-				<p><title><date when="1912-01-26">Sunday. Jan. 26th.</date></title></p>
+				<p><title><date when="1912-01-26">Sunday. Jan. 26th</date></title>.</p>
 				<p>I had the misfortune to break one of my teeth the other day, and had to go to
 						<placeName ref="#Cairo">Cairo</placeName> to get it mended - arranged by
 					telegram with <persName ref="#Duprey_Dr">Dr. Duprey</persName> - we, <persName
@@ -412,7 +412,7 @@
 					- at 2 P.M. <persName ref="#Buttles_Jeanette">Nettie</persName> went with me to
 					the dentist for an hour, afterwards the girls went to the bazaar - crowds of
 					Americans arrived in the afternoon at <name type="hotel" ref="#Shepheards_Hotel"
-						>Shepheards</name> from <name type="vessel" ref="#SS_Adriatic">SS
+						>Shepheards</name> from <name type="vessel" ref="#SS_Adriatic">SS.
 						Adriatic</name>. <orgName ref="#Buttles">The girls</orgName> much amused
 					with the show in the evening. The next morning the girls went to the <placeName
 						ref="#Egyptian_Museum">Museum</placeName>, and I stayed at home <pb n="94"/>
@@ -431,7 +431,7 @@
 						Whymper</persName> and ourselves.</p>
 			</div>
 			<div xml:id="EBA19120129" type="Entry">
-				<p><title><date when="1912-01-29">Monday 29.</date></title></p>
+				<p><title><date when="1912-01-29">Monday 29</date></title>.</p>
 				<p><persName ref="#Layard_Lady">Lady Layard</persName>, <persName
 						ref="#Alderson_Miss">Miss Alderson</persName>, <persName
 						ref="#Buttles_Jeanette">Nettie</persName> and <persName ref="#Buttles_Mary"
@@ -445,7 +445,7 @@
 						ref="#Valley_of_the_Kings">Valley</placeName>.</p>
 			</div>
 			<div xml:id="EBA19120130" type="Entry">
-				<p><title><date when="1912-01-30">Tuesday. Jan. 30th.</date></title></p>
+				<p><title><date when="1912-01-30">Tuesday. Jan. 30th</date></title>.</p>
 				<p>It has been deliciously warm for two days - that light, pure warm air that is a
 					happiness to breathe. We were shocked to hear of the death of the <persName
 						ref="#Fife_Duke_of">Duke of Fife</persName> at <placeName ref="#Assuan"
@@ -463,7 +463,7 @@
 			</div>
 			<pb n="95"/>
 			<div xml:id="EBA19120131" type="Entry">
-				<p><title><date when="1912-01-31">Wednesday. Jan. 31.</date></title></p>
+				<p><title><date when="1912-01-31">Wednesday. Jan. 31</date></title>.</p>
 				<p>Another beautiful hot day. Home all day, <orgName ref="#Glover">Mr. and Mrs.
 						Glover and daughters</orgName> who brought a card of introduction from
 						<persName ref="#Weigall_Arthur">Mr. Weigall</persName> had tea with us.
@@ -471,7 +471,7 @@
 						ref="#Valley_of_the_Kings">Valley</placeName> yesterday.</p>
 			</div>
 			<div xml:id="EBA19120201" type="Entry">
-				<p><title><date when="1912-02-01">February 1st. Thursday.</date></title></p>
+				<p><title><date when="1912-02-01">February 1st. Thursday</date></title>.</p>
 				<p>At home all day. <orgName ref="#Buttles">The girls</orgName> took <persName
 						ref="#Layard_Lady">Lady Layard</persName> and <persName ref="#Alderson_Miss"
 						>Miss Alderson</persName> to <placeName ref="#Karnak">Karnak</placeName>
@@ -481,7 +481,7 @@
 					We are deluged and covered with dust - but it has grown cooler.</p>
 			</div>
 			<div xml:id="EBA19120202" type="Entry">
-				<p><title><date when="1912-02-02">Friday. Feb. 2nd.</date></title></p>
+				<p><title><date when="1912-02-02">Friday. Feb. 2nd</date></title>.</p>
 				<p>A very busy morning letter writing - about noon <persName ref="#Layard_Lady">Lady
 						Layard</persName> and <persName ref="#Alderson_Miss">Miss
 						Alderson</persName> came in for a farewell visit - they go to <placeName
@@ -493,7 +493,7 @@
 						>Monday</date>. A lovely moonlit, quiet night - a boon indeed.</p>
 			</div>
 			<div xml:id="EBA19120203" type="Entry">
-				<p><title><date when="1912-02-03">Saturday. Feb. 3rd.</date></title></p>
+				<p><title><date when="1912-02-03">Saturday. Feb. 3rd</date></title>.</p>
 				<p><persName ref="#Buttles_Mary">Mary</persName> and I to town this morning. Met the
 						<persName ref="#Contardone_Contessa">Contessa Contardone</persName> and
 						<persName ref="#Jeannot_Mlle">Mlle. Jeannot</persName>, and we went into
@@ -514,20 +514,20 @@
 					family! how sad it is.</p>
 			</div>
 			<div xml:id="EBA19120204" type="Entry">
-				<p><title><date when="1912-02-04">Septuagesima Sunday - Feb. 4th.</date></title></p>
+				<p><title><date when="1912-02-04">Septuagesima Sunday - Feb. 4th</date></title>.</p>
 				<p>A quiet, warm day - and a delightful one. <persName ref="#Buttles_Mary"
 						>Mary</persName> and I were rowed down this afternoon to see <orgName
 						ref="#Nicol">the Nicols</orgName> - but they were not at home. <orgName
 						ref="#Maspero">The Masperos</orgName> left this A.M.</p>
 			</div>
 			<div xml:id="EBA19120205" type="Entry">
-				<p><title><date when="1912-02-05">Monday. Feb. 5th.</date></title></p>
+				<p><title><date when="1912-02-05">Monday. Feb. 5th</date></title>.</p>
 				<p><persName ref="#Davis_Theodore">Theo</persName> came back from the <placeName
 						ref="#Valley_of_the_Kings">Valley</placeName> this afternoon. The day has
 					been delightfully hot.</p>
 			</div>
 			<div xml:id="EBA19120206" type="Entry">
-				<p><title><date when="1912-02-06">Tuesday. Feb. 6th.</date></title></p>
+				<p><title><date when="1912-02-06">Tuesday. Feb. 6th</date></title>.</p>
 				<p>Another warm lovely day - and all those nights are so wonderfully beautiful with
 					the full moon. After the <name type="vessel" ref="#Hyksos">Hyksos</name> moved
 					off this A.M. we pulled around the sand to her place - and are so quiet here.
@@ -541,20 +541,20 @@
 			</div>
 			<pb n="97"/>
 			<div xml:id="EBA19120207">
-				<p><title><date when="1912-02-07">Wednesday. Feb. 7th.</date></title></p>
+				<p><title><date when="1912-02-07">Wednesday. Feb. 7th</date></title>.</p>
 				<p>A really hot day - quite delightful - at home all the time. <persName
 						ref="#Morgan_J.P.">Mr. Morgan</persName> and <persName ref="#Burns_Mrs">Mrs.
 						Burns</persName> came to lunch - and we had a very pleasant visit. <persName
 						ref="#Davis_Theodore">Theo</persName> went to the <placeName
 						ref="#Valley_of_the_Kings">Valley</placeName> at 5 o’clock - accompanied by
 						<persName ref="#Jones_Daniel">Jones</persName>. We had a call from <persName
-						ref="#Ralli_Pandolfi_Mr">Mr. Pandolfi Ralli</persName> of <placeName
+						ref="#Ralli_Pandolfi_Mr">Mr. Pandolfi Ralli</persName> - of <placeName
 						ref="#London">London</placeName> - who brought me a letter from <persName
 						ref="#Layard_Lady">Lady Layard</persName> saying he was an old friend of
 					theirs - rather an interesting person.</p>
 			</div>
 			<div xml:id="EBA19120208" type="Entry">
-				<p><title><date when="1912-02-08">Thursday. Feb. 8th.</date></title></p>
+				<p><title><date when="1912-02-08">Thursday. Feb. 8th</date></title>.</p>
 				<p><persName ref="#Buttles_Jeanette">Nettie</persName> and <persName
 						ref="#Buttles_Mary">Mary</persName> went out to the <placeName
 						ref="#Valley_of_the_Kings">Valley</placeName> - taking one of the sand carts
@@ -562,19 +562,19 @@
 					delightful.</p>
 			</div>
 			<div xml:id="EBA19120209" type="Entry">
-				<p><title><date when="1912-02-09">Friday. Feb. 9th.</date></title></p>
+				<p><title><date when="1912-02-09">Friday. Feb. 9th</date></title>.</p>
 				<p>Another warm day - and some wind. <persName ref="#Morgan_J.P.">Mr.
 						Morgan</persName> went up at 2 o’clock.</p>
 			</div>
 			<div xml:id="EBA19120210" type="Entry">
-				<p><title><date when="1912-02-10">Saturday. Feb. 10th.</date></title></p>
+				<p><title><date when="1912-02-10">Saturday. Feb. 10th</date></title>.</p>
 				<p><persName ref="#Buttles_Mary">Mary</persName> and I went off this morning to the
 						<name type="vessel" ref="#Memnon"><sic>Mennon</sic></name>, but found on one
 					at home. <orgName ref="#Nicol">Mr. and Mrs. Nicol</orgName> to tea - a charming
 					day.</p>
 			</div>
 			<div xml:id="EBA19120211" type="Entry">
-				<p><title><date when="1912-02-11">Sexigesima Sunday, Feb. 11th.</date></title></p>
+				<p><title><date when="1912-02-11">Sexigesima Sunday, Feb. 11th</date></title>.</p>
 				<p>At home all day. In the afternoon <persName ref="#Molesworth_Lady">Lady
 						Molesworth</persName>, <persName ref="#Contardone_Contessa">the
 						Contessa</persName> and that nice young man, <persName
@@ -585,10 +585,10 @@
 			</div>
 			<pb n="98"/>
 			<div xml:id="EBA19120212" type="Entry">
-				<p><title><date when="1912-02-12">Monday, Feb. 12th.</date></title></p>
+				<p><title><date when="1912-02-12">Monday, Feb. 12th</date></title>.</p>
 				<p>Another absolutely perfect day. We went over by appointment to the <name
 						type="vessel" ref="#Mavis">Mavis</name> to see <persName ref="#Nicol_Mr">Mr.
-						Nicol</persName>s pictures - two beautiful ones. One of them already sold to
+						Nicol</persName>'s pictures - two beautiful ones. One of them already sold to
 						<persName ref="#Lathrop_Barbour_Mr">Mr. Barbour Lathrop</persName>. They are
 					busy packing, as they leave on <date when="1912-02-15">Thursday</date>, for
 						<placeName ref="#Palestine">Palestine</placeName>, where he wished to get a
@@ -597,7 +597,7 @@
 					very pleasant visit.</p>
 			</div>
 			<div xml:id="EBA19120213" type="Entry">
-				<p><title><date when="1912-02-13">Tuesday. Feb. 13th.</date></title></p>
+				<p><title><date when="1912-02-13">Tuesday. Feb. 13th</date></title>.</p>
 				<p>Such a warm, nice day - until about 2 o’clock it grew hotter and a furious wind
 					came up, filling the air with dust, - at 5 o’clock it was all over. The
 					afternoon was busy. <persName ref="#Burton_Harry">Harry</persName> here to
@@ -606,7 +606,7 @@
 						>England</placeName>, sent here by <persName ref="#Wilson_Alice">Alice
 						Wilson</persName> - <orgName ref="#Bauldwin">Mr. and Mrs. Bauldwin</orgName>
 						(<placeName ref="#New_York">New York</placeName>), <orgName ref="#Carnarvon"
-						>Lord and Lady Carnarvon</orgName>
+						>Lord and Lady Carnarvon</orgName>,
 					<persName ref="#Cadwalader_L._John_Mr">Mr. John L. Cadwalader</persName>,
 						<persName ref="#Ruth_Miss">Miss Ruth</persName> from <placeName
 						ref="#New_York">N.Y.</placeName> and <persName ref="#Markow_Mrs">Mrs.
@@ -618,7 +618,7 @@
 					light.</p>
 			</div>
 			<div xml:id="EBA19120221" type="Entry">
-				<p><title><date when="1912-02-21">Wednesday. Feb. 21st.</date></title></p>
+				<p><title><date when="1912-02-21">Wednesday. Feb. 21st</date></title>.</p>
 				<p>I went over to the town this morning with <persName ref="#Davis_Theodore"
 						>Theodore</persName> - and after attending to some necessary things we
 					walked in the garden of the <name type="hotel"
@@ -632,7 +632,7 @@
 						>Valley</placeName>.</p>
 			</div>
 			<div xml:id="EBA19120222" type="Entry">
-				<p><title><date when="1912-02-22">Thursday. Feb. 22nd.</date></title></p>
+				<p><title><date when="1912-02-22">Thursday. Feb. 22nd</date></title>.</p>
 				<p>We had the boat dressed in all its colors in honor of <persName
 						ref="#Washington_George">Washington</persName>'s birthday - and it made a
 					very pretty sight. I have spent most of the day writing letters etc. <persName
@@ -641,7 +641,7 @@
 					pleasant and amusing visit.</p>
 			</div>
 			<div xml:id="EBA19120301" type="Entry">
-				<p><title><date when="1912-03-01">Friday. March 1st.</date></title></p>
+				<p><title><date when="1912-03-01">Friday. March 1st</date></title>.</p>
 				<p>I have been greatly worried about <persName ref="#Buttles_Jeanette"
 						>Nettie</persName> for some days, she has seemed so unlike herself - and
 					about a week ago we sent for <persName ref="#Dunn_Dr">Dr. Dunn</persName> - whom
@@ -663,7 +663,7 @@
 						>3rd</date>.</p>
 			</div>
 			<div xml:id="EBA19120306" type="Entry">
-				<p><title><date when="1912-03-06">Wednesday. March 6th.</date></title></p>
+				<p><title><date when="1912-03-06">Wednesday. March 6th</date></title>.</p>
 				<p>Arrived at 10.20 this morning at <placeName ref="#Aswan">Aswân</placeName> - and
 					left on the 8th <pb n="100"/> arriving at <placeName ref="#Abu_Simbel">Abu
 						Simbel</placeName> on the 10th day - very busy winds, and very uncomfortably
@@ -689,7 +689,7 @@
 					island - and is most interesting and charming.</p>
 			</div>
 			<div xml:id="EBA19120322" type="Entry">
-				<p><title><date when="1912-03-22">Friday. Mar. 22nd.</date></title></p>
+				<p><title><date when="1912-03-22">Friday. Mar. 22nd</date></title>.</p>
 				<p>Had an uneventful journey down to <placeName ref="#Cairo">Cairo</placeName> -
 					arrived at 3:30 - and went to our usual mooring place - the little patch of
 					garden full of bloom.</p>
@@ -697,7 +697,7 @@
 			<pb n="101"/>
 			<div xml:id="EBA19120402" type="Entry">
 				<p><title><placeName ref="#Cairo">Cairo</placeName> - <date when="1912-04-02"
-							>Tuesday. April 2nd.</date></title></p>
+							>Tuesday. April 2nd</date></title>.</p>
 				<p>We have been here 11 days - and sail tomorrow on the <name type="vessel"
 						ref="#Prinz_Heinrich">Prinz Heinrich</name> for <placeName ref="#Genoa"
 						>Genoa</placeName>, via <placeName ref="#Corfu">Corfu</placeName> -
@@ -714,7 +714,7 @@
 						<placeName ref="#Florence">Florence</placeName>. Weather not too warm.</p>
 			</div>
 			<div xml:id="EBA19120408" type="Entry">
-				<p><title><date when="1912-04-08">Easter Monday. April 8th. 1912.</date></title></p>
+				<p><title><date when="1912-04-08">Easter Monday. April 8th. 1912</date></title>.</p>
 				<p><placeName ref="#Genoa">Genoa</placeName> - we had such a tiresome voyage. It was
 					interesting seeing <placeName ref="#Corfu">Corfu</placeName> again - but it
 					added to the days. The German Emperor was there at his Castle - and 3 great
@@ -726,7 +726,7 @@
 			</div>
 			<div xml:id="EBA19120409" type="Entry">
 				<p><title><placeName ref="#Florence">Florence</placeName>. <date when="1912-04-09"
-							>Tuesday. April 9th.</date></title></p>
+							>Tuesday. April 9th</date></title>.</p>
 				<p><persName ref="#Davis_Theodore">Theo</persName> and <persName ref="#Burton_Harry"
 						>Harry</persName> elected to go by motor here - and we went by train - we
 					expected them to arrive before we did, at 10 o’clock P.M. But we passed them
@@ -743,7 +743,7 @@
 					every day, and motored and played cards with <persName ref="#Davis_Theodore"
 						>Theodore</persName> - when the weather was good, which was seldom. We had
 					fires every day. Pleasant visits with <orgName ref="#Hagermeyers">the
-						Hagermeyers</orgName> and with <orgName ref="#Kirks">the Kirks</orgName> -
+						Hagermeyer's</orgName> and with <orgName ref="#Kirks">the Kirks</orgName> -
 					old <persName ref="#Kirk_Mrs">Mrs. Kirk</persName> is very remarkable. She is 86
 					years old and as active mentally and physically as ever, and very intelligent.
 					She rises very early, and works in her garden of which she is extravagantly
@@ -767,7 +767,7 @@
 			</div>
 			<pb n="103"/>
 			<div xml:id="EBA19120505" type="Entry">
-				<p><title><date when="1912-05-05"><sic>Sunday. April 5th.</sic></date></title></p>
+				<p><title><date when="1912-05-05"><sic>Sunday. April 5th</sic></date></title>.</p>
 				<p>We had 5 miserable days in <placeName ref="#Milan">Milan</placeName>. <persName
 						ref="#Davis_Theodore">Theo</persName> was so suffering. We were as usual at
 					that pleasant <hi rend="underline">Cavour</hi>, and <persName
@@ -783,7 +783,7 @@
 					>Bucklands</placeName>.</p>
 			</div>
 			<div xml:id="EBA19120529" type="Entry">
-				<p><title><date when="1912-05-29">Tuesday. May 29th.</date></title></p>
+				<p><title><date when="1912-05-29">Tuesday. May 29th</date></title>.</p>
 				<p>We are finally off for home tomorrow, and will sail on the <name type="vessel"
 						ref="#Kronprinzessen_Cecèlia">Kronprinzessen Cecèlia</name>. She usually
 					makes the voyage in 5 days but as all the boats take a long southern course, to
