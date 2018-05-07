@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "file:/Users/iamamac/Desktop/volume-18_1911-1912.dtd">
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -132,7 +133,7 @@
 							when="1911-10-21">Oct. 21st</date></title>.</p>
 				<p>Sailed this morning for <placeName ref="#Genoa">Genoa</placeName> - where we will
 					wait 15 days for our boat for <placeName ref="#Alexandria"
-						>Alexandria</placeName>. Have my old appartment which is the Captain’s, and
+						>Alexandria</placeName>. Have my old appartment which is the Captain's, and
 					very commodious and comfortable, and which I occupied two years ago. We know a
 					few of the passengers. The 4 days we passed in <placeName ref="#New_York">New
 						York</placeName> were dismal in the extreme - it rained all the time, I took
@@ -193,8 +194,8 @@
 					was in order, and we were soon settled. <persName ref="#Burton_Harry"
 						>Harry</persName> left for <placeName ref="#Luxor">Luxor</placeName> today.
 					We had a pleasant week in <placeName ref="#Cairo">Cairo</placeName> - saw many
-					of our old friends. <persName ref="#Alston_Judge">Judge Alston</persName> and
-					his <persName ref="#Alston_Mrs">wife</persName> lunched with us on the boat,
+					of our old friends. <orgName ref="#Alston">Judge Alston and
+					his wife</orgName> lunched with us on the boat,
 						<persName ref="#Trefusis_Robert_Capt">Capt. Trefusis</persName> and his
 						<persName ref="#Trefusis_Mrs">wife</persName> lunched another day.</p>
 			</div>
@@ -205,13 +206,13 @@
 			</div>
 			<div xml:id="EBA19111204" type="Entry">
 				<p><title><date when="1911-12-04">Monday. Dec. 4th</date></title>.</p>
-				<p>Tug arrived about 9 o’clock - and we were off for the opening of the bridge at 10
+				<p>Tug arrived about 9 o'clock - and we were off for the opening of the bridge at 10
 					- a good run of about <measure type="distance"><hi rend="underline">25
-							miles</hi></measure>, and tied up about 5 o’clock.</p>
+							miles</hi></measure>, and tied up about 5 o'clock.</p>
 			</div>
 			<div xml:id="EBA19111205" type="Entry">
 				<p><title><date when="1911-12-05">Tuesday, Dec. 5th</date></title></p>
-				<p>Started about 6 this morning - tied up at 5 o’clock, and are <measure
+				<p>Started about 6 this morning - tied up at 5 o'clock, and are <measure
 						type="distance">8 miles</measure> from <placeName ref="#Benisoef"
 						>Benisoef</placeName>. <measure type="distance"><hi rend="underline">40
 							miles</hi></measure>.</p>
@@ -228,7 +229,7 @@
 					usual start at 6 A.M. - reached <placeName ref="#Sheikh_Fadl">Sheik
 						Fadl</placeName> at 10, where the tug stopped for coal, so that we sailed
 					away to <placeName ref="#Minia">Minia</placeName> in fine style and made it at 5
-					o’clock. A lovely day.</p>
+					o'clock. A lovely day.</p>
 			</div>
 			<div xml:id="EBA19111208" type="Entry">
 				<p><title><date when="1911-12-08">Friday. Dec. 8th</date>.</title></p>
@@ -372,7 +373,7 @@
 						ref="#Gordon_Morris_Adam">Adam Gordon Morris party</orgName>, who have that
 					hideous little <name type="vessel" ref="#Nitocris">Nitocris</name> - a very
 					pleasant woman was with them - a <persName ref="#Godwin_Miss">Miss
-						Godwin</persName> of New York. We then went to see <persName
+						Godwin</persName> of <placeName ref="#New_York">New York</placeName>. We then went to see <persName
 						ref="#Maspero_Madame">Madame Maspero</persName>, and <persName
 						ref="#Layard_Lady">Lady Layard</persName> who were out - and then into the
 						<name type="hotel" ref="#Winter_Palace_Hotel">Winter Palace</name> for tea,
@@ -411,7 +412,7 @@
 					telegram with <persName ref="#Duprey_Dr">Dr. Duprey</persName> - we, <persName
 						ref="#Buttles_Jeanette">Nettie</persName>, <persName ref="#Buttles_Mary"
 						>Mary</persName> and I left <placeName ref="#Luxor">Luxor</placeName> on the
-					evening on the 7 o’clock train de luxe, and reached <placeName ref="#Cairo"
+					evening on the 7 o'clock train de luxe, and reached <placeName ref="#Cairo"
 						>Cairo</placeName> at 8:30 A.M. the next day. They had our rooms ready for
 					us at <name type="hotel" ref="#Shepheards_Hotel">Shepheards</name>. We spent the
 					morning at <persName ref="#Cécile_Madame">Madame Cécile</persName>s after
@@ -489,7 +490,7 @@
 						>Miss Alderson</persName> to <placeName ref="#Karnak">Karnak</placeName>
 					this morning where <persName ref="#Legrain_Georges">M. Legrain</persName>
 					devoted himself to them, and made a very pleasant visit for them. About one
-					o’clock a violent gale and sand storm burst upon us - and it is still going on.
+					o'clock a violent gale and sand storm burst upon us - and it is still going on.
 					We are deluged and covered with dust - but it has grown cooler.</p>
 			</div>
 			<div xml:id="EBA19120202" type="Entry">
@@ -519,8 +520,8 @@
 					pleasant visit. Then to <placeName ref="#Karnak">Karnak</placeName> to see
 						<persName ref="#Legrain_Madame">Madame Legrain</persName>, and had tea
 					there. The '<name type="vessel" ref="#Hyksos">Hyksos</name>' steamer came down
-					and stopped for the night near us - she is the boat <persName
-						ref="#Princess_Royal">the Princess Royal</persName> and the <persName
+					and stopped for the night near us - she is the boat the <persName
+						ref="#Princess_Royal">Princess Royal</persName> and the <persName
 						ref="#Duke_of_Fife">Duke of Fife</persName> always have had. There is to be
 					something like a memorial service in the chapel here tomorrow. The bereaved
 					family! how sad it is.</p>
@@ -544,7 +545,7 @@
 					the full moon. After the <name type="vessel" ref="#Hyksos">Hyksos</name> moved
 					off this A.M. we pulled around the sand to her place - and are so quiet here.
 						<persName ref="#Morgan_J.P.">Mr. Morgan</persName> on his fine new steamer
-					came in last night at 10 o’clock and soon after breakfast <persName
+					came in last night at 10 o'clock and soon after breakfast <persName
 						ref="#Davis_Theodore">Theo</persName> and I went across to see them. They
 					were very glad to see me. He has his nice sister <persName ref="#Burns_Mrs">Mrs.
 						Burns</persName>, <orgName ref="#Lythgoe">Mr. and Mrs. Lythgoe</orgName> and
@@ -558,7 +559,7 @@
 						ref="#Morgan_J.P.">Mr. Morgan</persName> and <persName ref="#Burns_Mrs">Mrs.
 						Burns</persName> came to lunch - and we had a very pleasant visit. <persName
 						ref="#Davis_Theodore">Theo</persName> went to the <placeName
-						ref="#Valley_of_the_Kings">Valley</placeName> at 5 o’clock - accompanied by
+						ref="#Valley_of_the_Kings">Valley</placeName> at 5 o'clock - accompanied by
 						<persName ref="#Jones_Daniel">Jones</persName>. We had a call from <persName
 						ref="#Ralli_Pandolfi_Mr">Mr. Pandolfi Ralli</persName> - of <placeName
 						ref="#London">London</placeName> - who brought me a letter from <persName
@@ -576,7 +577,7 @@
 			<div xml:id="EBA19120209" type="Entry">
 				<p><title><date when="1912-02-09">Friday. Feb. 9th</date></title>.</p>
 				<p>Another warm day - and some wind. <persName ref="#Morgan_J.P.">Mr.
-						Morgan</persName> went up at 2 o’clock.</p>
+						Morgan</persName> went up at 2 o'clock.</p>
 			</div>
 			<div xml:id="EBA19120210" type="Entry">
 				<p><title><date when="1912-02-10">Saturday. Feb. 10th</date></title>.</p>
@@ -612,8 +613,8 @@
 			</div>
 			<div xml:id="EBA19120213" type="Entry">
 				<p><title><date when="1912-02-13">Tuesday. Feb. 13th</date></title>.</p>
-				<p>Such a warm, nice day - until about 2 o’clock it grew hotter and a furious wind
-					came up, filling the air with dust, - at 5 o’clock it was all over. The
+				<p>Such a warm, nice day - until about 2 o'clock it grew hotter and a furious wind
+					came up, filling the air with dust, - at 5 o'clock it was all over. The
 					afternoon was busy. <persName ref="#Burton_Harry">Harry</persName> here to
 					lunch. Young <persName ref="#Murray_Keith">Keith Murray</persName>, <persName
 						ref="#McDonnel_Mr">Mr. McDonnel</persName>, of <placeName ref="#England"
@@ -688,10 +689,10 @@
 					those mountains of engulfing sand. The morning was too delicious, the scent of
 					the crops - the larks singing everywhere, and all that strange, wild desolate,
 						<placeName ref="#Nubia">Nubian </placeName>country. Sailed away at 10
-					o’clock at last, turning our faces homeward - arrived back at <placeName
-						ref="#Aswan">Aswân</placeName> at 5 o’clock P.M. and remained the night -
+					o'clock at last, turning our faces homeward - arrived back at <placeName
+						ref="#Aswan">Aswân</placeName> at 5 o'clock P.M. and remained the night -
 					the next day making 90 miles - arriving at <placeName ref="#Luxor"
-						>Luxor</placeName> the following day about 3 o’clock. While on the way up to
+						>Luxor</placeName> the following day about 3 o'clock. While on the way up to
 						<placeName ref="#Abu_Simbel">Abu Simbel</placeName>, I made a charming visit
 					to <orgName ref="#Bird">Mr. and Mrs. Bird</orgName>, on their desert island,
 					which they have made to blossom like the rose. <persName ref="#Somers-Clarke_Mr"
@@ -744,13 +745,13 @@
 							>Tuesday. April 9th</date></title>.</p>
 				<p><persName ref="#Davis_Theodore">Theo</persName> and <persName ref="#Burton_Harry"
 						>Harry</persName> elected to go by motor here - and we went by train - we
-					expected them to arrive before we did, at 10 o’clock P.M. But we passed them
-					near Spezia, the rain pouring in torrents - and we thought they would stop
+					expected them to arrive before we did, at 10 o'clock P.M. But we passed them
+					near <placeName ref="#La_Spezia">Spezia</placeName>, the rain pouring in torrents - and we thought they would stop
 					somewhere for the night. But they did not arrive <pb n="102"/> until 12:30 - and
 						<persName ref="#Jones_Daniel">Jones</persName> and I who were sitting up for
 					them, were very anxious. They had bad roads and continuous rain. Our pleasure in
 					being once more in <placeName ref="#Florence">Florence</placeName>, was marred
-					by an illness of <persName ref="#Davis_Theodore">Theodore</persName>’s. It began
+					by an illness of <persName ref="#Davis_Theodore">Theodore</persName>'s. It began
 					with an ulcerated tooth, which gave him extreme pain, but the dentist treated
 					it, and we hoped it was over. <persName ref="#Burton_Harry">Harry</persName> was
 					every day at the hotel with us, and <persName ref="#Costantini_David">David
@@ -775,7 +776,7 @@
 						ref="#Basilica_of_Santa_Croce">S. Croce</placeName>, my favourite Florentine
 					church, one morning. We were all devoted to <persName ref="#Davis_Theodore"
 						>Theo</persName> - in his wretched state - and the last day of our stay we
-					went out to <persName ref="#Costantini_David">David Costantini</persName>’s
+					went out to <persName ref="#Costantini_David">David Costantini</persName>'s
 					beautiful house and had tea. <persName ref="#Costantini_Mrs">Mrs.
 						Costantini</persName> was in <placeName ref="#Paris">Paris</placeName> - we
 					are leaving on the <date when="1912-04-24">24th</date> for <placeName
@@ -794,7 +795,7 @@
 					fortunately found an excellent dentist - who came twice to see him each day. He
 					was so brave and patient - but the treatment was very heroic, and he is much
 					pulled down by it - quite a comfortable ride to <placeName ref="#Pas-de-Calais"
-						>the Calais landing</placeName>, and on Tuesday afternoon at 5 o’clock we
+						>the Calais landing</placeName>, and on Tuesday afternoon at 5 o'clock we
 					reached <placeName ref="#London">London</placeName>, and settled ourselves in
 					our old pleasant appartment at <placeName ref="#Bucklands"
 					>Bucklands</placeName>.</p>
