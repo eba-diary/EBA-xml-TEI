@@ -57,8 +57,8 @@
                association with the millionaire lawyer turned archaeologist/art and antiquities
                collector, <persName ref="#Davis_Theodore">Theodore M. Davis</persName>. Traveling to
                   <placeName ref="#Egypt">Egypt</placeName> with him between 1889 and 1912, she kept
-               detailed journals of these voyages along the <name type="river" ref="#Nile"
-                  >Nile</name>, including his important yet under-reported excavations of 20
+               detailed journals of these voyages along the <placeName ref="#Nile_River"
+                  >Nile</placeName>, including his important yet under-reported excavations of 20
                significant tombs in the <placeName ref="#Valley_of_the_Kings">Valley of the
                   Kings</placeName>. <persName ref="#Andrews_Emma_B">Emma</persName> provides a
                vital commentary on the archaeology and pioneering Egyptologists of the time. She
@@ -117,7 +117,7 @@
             <lb/>1889 - 1912 <lb/>
             <lb/>The Diary kept on board the dahabiyeh of <lb/><persName ref="#Davis_Theodore"
                >THEODORE M. DAVIS</persName>
-            <lb/>during seventeen trips up the Nile by <lb/><persName ref="#Andrews_Emma B.">MRS.
+            <lb/>during seventeen trips up the Nile by <lb/><persName ref="#Andrews_Emma_B">MRS.
                EMMA B. ANDREWS</persName>
             <lb/>VOL. I</p>
          <p>TYPEWRITTEN BY <persName ref="#E.P.B.">E.P.B.</persName>
@@ -125,21 +125,24 @@
          <pb n="000.2"/>
          <p>NOTE</p>
          <p>While on her way through New York, in the autumn of 1916, <persName
-               ref="#Andrews_Emma B.">Mrs. Andrews</persName> kindly gave her consent to a request
-            which I made, that we be allowed to copy this journal of her life on the Nile, primarily
-            in order that we might have on record in the Egyptian Department of the Museum the many
-            facts which it contains relating to the archaeological work of <persName
-               ref="#Davis_Theodore">Theodore M. Davis</persName>, from the results of which the
-            museum has received such valuable material through his various gifts and under the terms
-            of his will.</p>
-         <p>As a member of his family, <persName ref="#Andrews_Emma B.">Mrs. Andrews</persName>
+               ref="#Andrews_Emma_B">Mrs. Andrews</persName> kindly gave her consent to a request
+            which I made, that we be allowed to copy this journal of her life on the <placeName
+               ref="#Nile_River">Nile</placeName>, primarily in order that we might have on record
+            in the <orgName ref="#Egyptian_Department">Egyptian Department</orgName> of the <orgName
+               ref="#Metropolitan_Museum_of_Art">Museum</orgName> the many facts which it contains
+            relating to the archaeological work of <persName ref="#Davis_Theodore">Theodore M.
+               Davis</persName>, from the results of which the museum has received such valuable
+            material through his various gifts and under the terms of his will.</p>
+         <p>As a member of his family, <persName ref="#Andrews_Emma_B">Mrs. Andrews</persName>
             accompanied <persName ref="#Davis_Theodore">Mr. Davis</persName> on his annual visits to
             Egypt for a period of more than twenty years, and the charming description which she
-            gives of their river-life on the "Bedawin", familiar to many of us who enjoyed their
-            hospitality, is certainly worthy of a wider public and more permanent form in print, --
-            though she could not be prevailed upon to consider this.</p>
+            gives of their river-life on the "<name type="vessel" ref="#Bedawin">Bedawin</name>",
+            familiar to many of us who enjoyed their hospitality, is certainly worthy of a wider
+            public and more permanent form in print, -- though she could not be prevailed upon to
+            consider this.</p>
          <p><persName ref="#Lythgoe_Albert">Albert M. Lythgoe</persName>.</p>
-         <p>Metropolitan Museum of Art <lb/>New York <lb/>February, 1919.</p>
+         <p>Metropolitan Museum of Art <lb/><placeName ref="#New_York">New York</placeName>
+            <lb/><date when="1919-02">February, 1919</date>.</p>
 
          <p>
             <title><placeName type="city" ref="#Paris">Paris</placeName>. <date when="1889-12-01"
@@ -229,7 +232,7 @@
                   ref="#Thomas_Cook_and_Son">Cook</orgName>'s office, a short distance from the
                hotel, and looked at plans of steamers and talked over the voyage of the <placeName
                   ref="#Nile_River">Nile</placeName>. After an excellent luncheon we drove out,
-               taking <persName ref="Gibbs_Sara">Miss Gibbs</persName> with us over the <placeName
+               taking <persName ref="#Gibbs_Sara">Miss Gibbs</persName> with us over the <placeName
                   ref="#Ghèzireh_Road">Ghèzireh road</placeName> - it looking almost as natural to
                us as the <placeName ref="#Ocean_Drive">Ocean Drive</placeName> at <placeName
                   ref="#Newport">Newport</placeName>, - the <placeName ref="#Kasr_el_Nil_bridge"
@@ -252,9 +255,9 @@
             </p>
             <p>We all drove down to the <placeName ref="#Nile_River">Nile</placeName> this morning
                to see the "<name type="vessel" ref="#Sethi">Sethi</name>" having a permission from
-                  <orgName ref="#Thomas_Cook_and_Sons">Cook</orgName>s - a cold wind was blowing,
-               and blinding clouds of dust flying. We were not pleased with the appearance of the
-                  <pb n="004"/>little steamer - I stayed at home alone in the afternoon with my
+                  <orgName ref="#Thomas_Cook_and_Son">Cook</orgName>s - a cold wind was blowing, and
+               blinding clouds of dust flying. We were not pleased with the appearance of the <pb
+                  n="004"/>little steamer - I stayed at home alone in the afternoon with my
                troublesome cold - it cannot be induced to leave me. We talked over the <placeName
                   ref="#Nile_River">Nile</placeName> journey and decided to go on the <name
                   type="vessel" ref="#Sethi">Sethi</name> the <date when="1890-01-01">1st of
@@ -299,15 +302,15 @@
                   >Dr. Murison</persName>, and busied myself writing letters. <persName
                   ref="#Salah_Mohammed">Mohammed Salah</persName> appeared at breakfast, with the
                huge inevitable bouquet, and a remarkable structure in sweets which he called a
-               "Christmas cake", and which I put by for afternoon and asked <orgName
-                  ref="Hughes_Sir_Frederick">Sir Frederick and Lady Hughes</orgName> and <persName
-                  ref="Gibbs_Sara">Miss Gibbs</persName> to come in, and so disposed of it.</p>
+               "Christmas cake", and which I put by for afternoon and asked <orgName ref="Hughes"
+                  >Sir Frederick and Lady Hughes</orgName> and <persName ref="#Gibbs_Sara">Miss
+                  Gibbs</persName> to come in, and so disposed of it.</p>
             <p>We have decided against the steamer -- first <persName ref="#Gibbs_Sara">Miss
                   Gibbs</persName> backed down -- then they went to look at dahabeahs, and became at
                once infatuated, and after visits to many <persName ref="#Davis_Theodore"
                   >Theodore</persName> decided upon the "<name type="vessel" ref="#Nubia"
-                  >Nubia</name>" belonging to <persName ref="Achmed_Prince">Prince
-               Achmed</persName>, an iron boat, with an excellent reputation for speed, and with
+                  >Nubia</name>" belonging to <persName ref="#Achmed_Prince">Prince
+                  Achmed</persName>, an iron boat, with an excellent reputation for speed, and with
                pretty fittings, and very good beds. Her model and fittings were so superior to those
                of any others that we saw, that in spite of her high price, <persName
                   ref="#Davis_Theodore">Theodore</persName> decided upon her. <persName
@@ -337,62 +340,61 @@
                three shops near the hotel to buy some last necessary things and when we got back we
                found two big carriages standing in front of the hotel, and our belongings were being
                stowed away in them and a cart by half a dozen smiling Arabs, who I found were
-               members of our crew. We had invited yesterday <orgName ref="#Hughes_Sir_Frederick"
-                  >Sir Frederick and Lady Hughes</orgName>, and <persName ref="#Gibbs_Sara">Miss
-                  Gibbs</persName> to lunch with us on the boat, <hi rend="underline">provided</hi>
-               a favorable wind did not arrive before lunch hour. It was arranged to send the
-               carriage back for <orgName ref="#Hughes_Sir_Frederick">the Hughes</orgName> if this
-               did not occur. We made our adieux to our obliging landlord, and others, and were soon
-               driving over <placeName ref="#Kasr_el_Nil_bridge">Kasr-el-Nil</placeName>, and
-               through the market place beyond. It was so delightfully exhilerating to be thus
-               starting out into the unknown, in the midst of so much pleasant preparation. Our
-               driver carefully picked his way between groups of kneeling camels, and flocks of
-               buffalo, sheep and children - then through the narrow streets of the village beyond,
-               between the walls of the low mud houses, their occupants mostly lying or squatting on
-               the ground in front of them. At last we came to the <pb n="007"/> river, and the
-               dahabeah, proudly floating the stars and stripes from her mast - and all about her a
-               great bustle of preparation, with half the population of the Arab settlement squatted
-               on the sand in front of her in observant silence. Everything was spick and span upon
-               the <name type="vessel" ref="#Nubia">Nubia</name> - and a smiling welcome from
-               Captain and crew - and so many brown helping hands held out, one could scarcely make
-               a motion. Growing plants upon the upper deck, and flowers inside - and our trunks and
-               belongings all in place. By this time a wind began to get up, and with it came
-                  <persName ref="#Gibbs_Sara">Miss Gibbs</persName> to say good bye, and a bunch of
-               lovely roses for me. She had time but for a few words and exclamations at our pretty
-               homelike air, for she had to make the bridge before the "draw" opened at 12 o'clock.
-               Very soon the crew began their preparations for sailing, and the wind having
-               freshened very much, <persName ref="#Davis_Theodore">Theodore</persName> told
-                  <persName ref="#Salah_Mohammed">Mahomet Salah</persName> that we were ready - he
-               replied that "two sailor men had gone ashore to get some tin" - but that if they did
-               not turn up when we were ready to start, we would not wait, as they would run along
-               the bank ahead of us, and we would pick them up - which we did afterwards - one poor
-               fellow with two big tin pans or tubs running about <measure type="distance">5
-                  miles</measure> before he overtook us. Before we got one big sail out the noon gun
-               from the <placeName ref="#Citadel">Citadel</placeName> fired, and a dahabeah near us,
-               flying the German flag, pulled out before us, however when we got out in the river
-               and caught the wind we soon sailed past her, and <persName ref="#Salah_Mohammed"
-                  >Mahommed Salah</persName> repeated his assurances that the <name type="vessel"
-                  ref="#Nubia">Nubia</name> was the fastest boat on the river, and we found
-               ourselves slipping rapidly past the dismal prison, <pb n="008"/>with its gangs of
-               convicts chained to another at work on the bank, past the various palaces lining each
-               side of the river - past the <placeName ref="#Island_of_Rhoda">island of
-                  Rhoda</placeName> - past groves of <rs type="plant" ref="#palm_trees">palms</rs> -
-               Arab villages - wastes of sand, until we pull up to take on board our belated sailor
-               - here, the German boat which we have dubbed "<name type="vessel"
-                  ref="#The_Flying_Dutchman">The Flying Dutchman</name>" overtook us and passed, but
-               we soon caught up with her, left her behind and lost sight of her, until one of our
-               small boats which we carry behind containing our poultry yard of chickens and
-               pigeons, came to grief in some way, and was overturned, and all the poor fowls
-               drowned. I was sorry for <persName ref="#Salah_Mohammed">M. Salah</persName>, it
-               being such a loss to his larder - but he took it with the stoical submission of a
-               true Mahommedan. Again we had to pull up - catch the boat and right it - some of the
-               fowls not being dead, we were astonished to see them throw overboard all of those
-               just drowned, as it seemed they would prove most welcome food at least to the
-               sailors, who so rarely get the opportunity to eat meat - but we learned that the
-               Mahommedans will not eat meat that is not killed and bled. Again <name type="vessel"
-                  ref="#The_Flying_Dutchman">the Flying Dutchman</name> passed us. The wind
-               increased very much, and blew hard and strong, and we flew along at the rate of six
-               miles an hour against the current, thus verifying the character of the <name
+               members of our crew. We had invited yesterday <orgName ref="#Hughes">Sir Frederick
+                  and Lady Hughes</orgName>, and <persName ref="#Gibbs_Sara">Miss Gibbs</persName>
+               to lunch with us on the boat, <hi rend="underline">provided</hi> a favorable wind did
+               not arrive before lunch hour. It was arranged to send the carriage back for <orgName
+                  ref="#Hughes">the Hughes</orgName> if this did not occur. We made our adieux to
+               our obliging landlord, and others, and were soon driving over <placeName
+                  ref="#Kasr_el_Nil_bridge">Kasr-el-Nil</placeName>, and through the market place
+               beyond. It was so delightfully exhilerating to be thus starting out into the unknown,
+               in the midst of so much pleasant preparation. Our driver carefully picked his way
+               between groups of kneeling camels, and flocks of buffalo, sheep and children - then
+               through the narrow streets of the village beyond, between the walls of the low mud
+               houses, their occupants mostly lying or squatting on the ground in front of them. At
+               last we came to the <pb n="007"/> river, and the dahabeah, proudly floating the stars
+               and stripes from her mast - and all about her a great bustle of preparation, with
+               half the population of the Arab settlement squatted on the sand in front of her in
+               observant silence. Everything was spick and span upon the <name type="vessel"
+                  ref="#Nubia">Nubia</name> - and a smiling welcome from Captain and crew - and so
+               many brown helping hands held out, one could scarcely make a motion. Growing plants
+               upon the upper deck, and flowers inside - and our trunks and belongings all in place.
+               By this time a wind began to get up, and with it came <persName ref="#Gibbs_Sara"
+                  >Miss Gibbs</persName> to say good bye, and a bunch of lovely roses for me. She
+               had time but for a few words and exclamations at our pretty homelike air, for she had
+               to make the bridge before the "draw" opened at 12 o'clock. Very soon the crew began
+               their preparations for sailing, and the wind having freshened very much, <persName
+                  ref="#Davis_Theodore">Theodore</persName> told <persName ref="#Salah_Mohammed"
+                  >Mahomet Salah</persName> that we were ready - he replied that "two sailor men had
+               gone ashore to get some tin" - but that if they did not turn up when we were ready to
+               start, we would not wait, as they would run along the bank ahead of us, and we would
+               pick them up - which we did afterwards - one poor fellow with two big tin pans or
+               tubs running about <measure type="distance">5 miles</measure> before he overtook us.
+               Before we got one big sail out the noon gun from the <placeName ref="#Citadel"
+                  >Citadel</placeName> fired, and a dahabeah near us, flying the German flag, pulled
+               out before us, however when we got out in the river and caught the wind we soon
+               sailed past her, and <persName ref="#Salah_Mohammed">Mahommed Salah</persName>
+               repeated his assurances that the <name type="vessel" ref="#Nubia">Nubia</name> was
+               the fastest boat on the river, and we found ourselves slipping rapidly past the
+               dismal prison, <pb n="008"/>with its gangs of convicts chained to another at work on
+               the bank, past the various palaces lining each side of the river - past the
+                  <placeName ref="#Island_of_Rhoda">island of Rhoda</placeName> - past groves of <rs
+                  type="plant" ref="#palm_trees">palms</rs> - Arab villages - wastes of sand, until
+               we pull up to take on board our belated sailor - here, the German boat which we have
+               dubbed The "<name type="vessel" ref="#Flying_Dutchman">Flying Dutchman</name>"
+               overtook us and passed, but we soon caught up with her, left her behind and lost
+               sight of her, until one of our small boats which we carry behind containing our
+               poultry yard of chickens and pigeons, came to grief in some way, and was overturned,
+               and all the poor fowls drowned. I was sorry for <persName ref="#Salah_Mohammed">M.
+                  Salah</persName>, it being such a loss to his larder - but he took it with the
+               stoical submission of a true Mahommedan. Again we had to pull up - catch the boat and
+               right it - some of the fowls not being dead, we were astonished to see them throw
+               overboard all of those just drowned, as it seemed they would prove most welcome food
+               at least to the sailors, who so rarely get the opportunity to eat meat - but we
+               learned that the Mahommedans will not eat meat that is not killed and bled. Again the
+                  <name type="vessel" ref="#Flying_Dutchman">Flying Dutchman</name> passed us. The
+               wind increased very much, and blew hard and strong, and we flew along at the rate of
+               six miles an hour against the current, thus verifying the character of the <name
                   type="vessel" ref="#Nubia">Nubia</name>. We passed <placeName ref="#Helouan"
                   >Helouan</placeName> in the distance, a fashionable health resort, and through a
                dip in the <placeName ref="#Mokattam_hills">Mokattam hills</placeName>, caught a last
@@ -401,24 +403,26 @@
                   ref="#Thomas_Cook_and_Son">Cook</orgName>'s boats was lying on its way up the
                   <placeName ref="#Nile_River">Nile</placeName>, with dozens of white helmetted
                tourists just returned from <placeName ref="#Memphis">Memphis</placeName> and
-                  <placeName ref="#Sakkarah">Sakkarah</placeName>. Then all the <placeName
-                  ref="#Pyramids">Pyramids</placeName> began to unfold themselves to our delighted
-               eyes - first those of <pb n="009"/><placeName ref="#Giza">Ghizeh</placeName> - then
-               the <placeName ref="#Sakkarah">Sakkarah</placeName> group with its stepped pyramid -
-               the blunted outline of <placeName ref="#Abusir">Aboesir</placeName>, then <placeName
-                  ref="#Dahshur">Dashoor</placeName> with its strange curving side, then <placeName
-                  ref="#Meydum">Meydoum</placeName> with its three shelved pyramid. A lovely sunset
-               finished the bright day, so full of novelty and pleasure - and the young moon about 5
-               days old made the night, when it had descended, brilliant.</p>
+                  <placeName ref="#Sakkarah">Sakkarah</placeName>. Then all the <name
+                  type="monument" ref="#Pyramids">Pyramids</name> began to unfold themselves to our
+               delighted eyes - first those of <pb n="009"/><placeName ref="#Giza"
+                  >Ghizeh</placeName> - then the <placeName ref="#Sakkarah">Sakkarah</placeName>
+               group with its <name type="monument" ref="#step_pyramid_of_Djoser">stepped
+                  pyramid</name> - the blunted outline of <placeName ref="#Abusir"
+                  >Aboesir</placeName>, then <placeName ref="#Dahshur">Dashoor</placeName> with its
+               strange curving side, then <placeName ref="#Meidum">Meydoum</placeName> with its
+                  <name type="monument" ref="#Meidum_pyramid">three shelved pyramid</name>. A lovely
+               sunset finished the bright day, so full of novelty and pleasure - and the young moon
+               about 5 days old made the night, when it had descended, brilliant.</p>
             <p>Our first dinner was a great success - the table very pretty with its candles, and
                the white, green and gold china. We had been told of the prowess of our cook - and
                here was a luxurious dinner, admirably cooked, worthy of a chef - we all exclaimed
                that if we were going to live in this manner for two months we would go off of the
                dahabeah a party of hopeless dyspeptics. We played a game of cribbage after dinner,
                and late in the evening, <persName ref="#Salah_Mohammed">M. Salah</persName> came in
-               saying that we were just overtaking <name type="vessel" ref="#The_Flying_Dutchman"
-                  >the Flying Dutchman</name>, and we rushed on deck to see her lights as we flew
-               past her. I went to bed with great comfort in my big state room, and the last sound I
+               saying that we were just overtaking the <name type="vessel" ref="#Flying_Dutchman"
+                  >Flying Dutchman</name>, and we rushed on deck to see her lights as we flew past
+               her. I went to bed with great comfort in my big state room, and the last sound I
                heard was <persName ref="#Davis_Theodore">Theodore</persName> pacing the deck above
                me. The wind was so strong and favorable we continued sailing all night with the
                exception of an hour or two.</p>
@@ -429,20 +433,20 @@
                part of our glorious gib main sail, which with its great towering billowing white
                breast makes our <name type="vessel" ref="#Nubia">Nubia</name> look like some living
                thing. It <pb n="010"/>was very exciting seeing the management of the boat, and the
-               shifting of the big boom. After making splendid progress for some hours, the
-                  <persName ref="#Captain">Captain</persName> thought it best to pull up under the
-               lee of a high bank near <placeName ref="#Benisoef">Benisoef</placeName> - and here we
-               stayed for 3 hours - <name type="vessel" ref="#The_Flying_Dutchman">The Flying
-                  Dutchman</name> presently came tearing along and pulled into the bank also - but
-               she only stayed to furl her big sail, and put up the small one, and was off again -
-               but as we are not in a breathless hurry, we decided to wait for the wind to go down,
-               so that we might sail in comfort. <placeName ref="#Benisoef">Benisoef</placeName> is
-                  <measure type="distance">73 miles</measure> from <placeName ref="#Cairo"
-                  >Cairo</placeName>, and <persName ref="#Salah_Mohammed">M. Salah</persName> says
-               our run of 12 hours from <placeName ref="#Cairo">Cairo</placeName> here, is the best
-               one he ever made, and he has been 20 years on the river. <persName
-                  ref="#Edwards_Amelia">Miss Edwards</persName> in "<title>A Thousand Miles</title>"
-               etc., says they took 10 days coming here, and were 3 days in getting away.</p>
+               shifting of the big boom. After making splendid progress for some hours, the Captain
+               thought it best to pull up under the lee of a high bank near <placeName
+                  ref="#Benisoef">Benisoef</placeName> - and here we stayed for 3 hours - The <name
+                  type="vessel" ref="#Flying_Dutchman">Flying Dutchman</name> presently came tearing
+               along and pulled into the bank also - but she only stayed to furl her big sail, and
+               put up the small one, and was off again - but as we are not in a breathless hurry, we
+               decided to wait for the wind to go down, so that we might sail in comfort. <placeName
+                  ref="#Benisoef">Benisoef</placeName> is <measure type="distance">73
+                  miles</measure> from <placeName ref="#Cairo">Cairo</placeName>, and <persName
+                  ref="#Salah_Mohammed">M. Salah</persName> says our run of 12 hours from <placeName
+                  ref="#Cairo">Cairo</placeName> here, is the best one he ever made, and he has been
+               20 years on the river. <persName ref="#Edwards_Amelia">Miss Edwards</persName> in
+                  "<title>A Thousand Miles</title>" etc., says they took 10 days coming here, and
+               were 3 days in getting away.</p>
             <p>I stayed below all the day - sitting in the cabin and staring through the windows at
                the strange, if not attractive scene beside us, of two boats loading with sugar cane
                - trains of camels coming down over the steep sandy bank and depositing it, and then
@@ -584,7 +588,7 @@
                I endure it because I fear if I protest against it I will be misunderstood. <persName
                   ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Buttles_Mary"
                   >Mary</persName> indulge in much raillery on the subject. Then there is our cook -
-               a middle aged fine looking Copt, <persName ref="#Ibraim_Hannah">Hannah
+               a middle aged fine looking Copt, <persName ref="#Ibrahim_Hannah">Hannah
                   Ibraim</persName> by name, to whom we owe so many comforts - he is assisted by
                what <persName ref="#Salah_Mohammed">M. S.</persName> calls a "cook maid", a black
                fellow in red fez and yellow cotton gown. Then comes the indoor servants - <persName
@@ -643,54 +647,55 @@
             </p>
             <p>While dressing this morning, I saw quite a concourse of men, children and donkeys
                gathered on the bank before us, who had supposed that we must be intending to visit
-               the grotto tombs of <placeName ref="#Beni_Hassan">Beni Hassan</placeName> - but we
-               have decided to leave these until we come down. Several of the children were holding
-               up curious little things, which I did not at first recognize as mummied cats. Some of
-               them were comically like, and I sent <persName ref="#Georgette">Georgette</persName>
-               to tell <persName ref="#Salah_Mohammed">M. Salah</persName> to buy, which he did, for
+               the <name type="monument" ref="#tombs_of_Beni_Hassan">grotto tombs</name> of
+                  <placeName ref="#Beni_Hassan">Beni Hassan</placeName> - but we have decided to
+               leave these until we come down. Several of the children were holding up curious
+               little things, which I did not at first recognize as mummied cats. Some of them were
+               comically like, and I sent <persName ref="#Georgette">Georgette</persName> to tell
+                  <persName ref="#Salah_Mohammed">M. Salah</persName> to buy, which he did, for
                   <measure type="currency">half a franc</measure> apiece! They smelled so loud, that
                I begged <persName ref="#Salah_Mohammed">M.S.</persName> to stow them away somewhere
                for me. I found the side-board graced by a remarkable structure of cake and
-               sweetmeats, which <persName ref="#Ibraim_Hannah">the cook</persName> had compounded
-               the night before, in honor of our New Years Day. Our greetings from the <pb n="019"
-               />crew and from all the men were most hearty - some of them being able to say a word
-               or two in English - and they broke into a ringing shout when <persName
-                  ref="#Salah_Mohammed">M.S.</persName> announced that <persName
-                  ref="#Davis_Theodore">Theodore</persName> would give them a sheep on our arrival
-               at <placeName ref="#Asyut">Assiout</placeName> - and gave <hi rend="underline"
-                  >him</hi> in return something like a three times three. It is the custom during
-               the <placeName ref="#Nile_River">Nile</placeName> voyage to give the sailors a sheep
-               on three or four occasions. It means a great deal to them, and is probably the only
-               time in the year when they get any meat to eat. They are such gentle patient people -
-               working so cheerfully from morning to night - their wants are few, and their habits
-               simple - they eat little, of the most simple food - about four times in the day - and
-               each meal is invariably like every other, with the exception that sometimes a few raw
-               onions are taken with it, or two or three leaves of a coarse kind of salad. Their
-               food is a coarse bread cut in slices, and dried in the sun for days, until it is
-               quite brown, when it is broken up and mixed with a soup of lentils - and they eat it
-               from one big wooden bowl, with spoons, about which they all gather squatting on their
-               haunches. If one of them wants a drink, he leans over the side of the boat and scoops
-               up a tin full of water - they generally wash their hands after eating, and many of
-               them rinse their mouths. After their last meal of the day they smoke a pipe called
-               hubble-bubble - one pipe serving for all, and handed from one person to another. Then
-               they get out their drums and tambourines and sing, until one after the other rolls
-               himself in his blanket, somewhere on the deck for the night. It seems a hard life -
-               and what these poor <pb n="020"/>folk must think of the endless variety of dishes
-               they daily see carried into our cabin, and the countless things that are necessary to
-               our comfort, I cannot imagine. We have had a magnificent sailing wind all day -
-               indeed it was sometimes too strong. Again I took refuge in our bright, comfortable
-               cabin until late in the afternoon when the wind having fallen, I went on deck for an
-               hour before sunset - it was deliciously calm and beautiful - a number of working
-               boats all along the river, with their picturesque loads of Arabs and merchandises. We
-               landed for the night just before dusk, and the rest went for a walk along the shore,
-               and came in late for dinner. We have made today about <measure type="distance">30
-                  miles</measure>. We have passed <placeName ref="#Rhodah">Rhodah</placeName>, where
-                  <persName ref="#Khedive">the Khedive</persName> has extensive sugar factories -
-               and <placeName ref="#el-Amarna">Tel-Amarna</placeName> where there are grotto tombs
-               of great interest, belonging to the 18th dynasty - and are now just approaching the
-               great chain of mountains which stretch precipitously along the east bank of the river
-               for <measure type="distance">10-12 miles</measure> - known as <placeName
-                  ref="#Gebel_Abou_Faydak">Gebel Abou-Faydak</placeName>.</p>
+               sweetmeats, which the cook had compounded the night before, in honor of our New Years
+               Day. Our greetings from the <pb n="019"/>crew and from all the men were most hearty -
+               some of them being able to say a word or two in English - and they broke into a
+               ringing shout when <persName ref="#Salah_Mohammed">M.S.</persName> announced that
+                  <persName ref="#Davis_Theodore">Theodore</persName> would give them a sheep on our
+               arrival at <placeName ref="#Asyut">Assiout</placeName> - and gave <hi
+                  rend="underline">him</hi> in return something like a three times three. It is the
+               custom during the <placeName ref="#Nile_River">Nile</placeName> voyage to give the
+               sailors a sheep on three or four occasions. It means a great deal to them, and is
+               probably the only time in the year when they get any meat to eat. They are such
+               gentle patient people - working so cheerfully from morning to night - their wants are
+               few, and their habits simple - they eat little, of the most simple food - about four
+               times in the day - and each meal is invariably like every other, with the exception
+               that sometimes a few raw onions are taken with it, or two or three leaves of a coarse
+               kind of salad. Their food is a coarse bread cut in slices, and dried in the sun for
+               days, until it is quite brown, when it is broken up and mixed with a soup of lentils
+               - and they eat it from one big wooden bowl, with spoons, about which they all gather
+               squatting on their haunches. If one of them wants a drink, he leans over the side of
+               the boat and scoops up a tin full of water - they generally wash their hands after
+               eating, and many of them rinse their mouths. After their last meal of the day they
+               smoke a pipe called hubble-bubble - one pipe serving for all, and handed from one
+               person to another. Then they get out their drums and tambourines and sing, until one
+               after the other rolls himself in his blanket, somewhere on the deck for the night. It
+               seems a hard life - and what these poor <pb n="020"/>folk must think of the endless
+               variety of dishes they daily see carried into our cabin, and the countless things
+               that are necessary to our comfort, I cannot imagine. We have had a magnificent
+               sailing wind all day - indeed it was sometimes too strong. Again I took refuge in our
+               bright, comfortable cabin until late in the afternoon when the wind having fallen, I
+               went on deck for an hour before sunset - it was deliciously calm and beautiful - a
+               number of working boats all along the river, with their picturesque loads of Arabs
+               and merchandises. We landed for the night just before dusk, and the rest went for a
+               walk along the shore, and came in late for dinner. We have made today about <measure
+                  type="distance">30 miles</measure>. We have passed <placeName ref="#Rhodah"
+                  >Rhodah</placeName>, where <persName ref="#Khedive">the Khedive</persName> has
+               extensive sugar factories - and <placeName ref="#el-Amarna">Tel-Amarna</placeName>
+               where there are <name ref="#tombs_of_el_Amarna">grotto tombs</name> of great
+               interest, belonging to the <date from="-1549" to="-1292">18th dynasty</date> - and
+               are now just approaching the great chain of mountains which stretch precipitously
+               along the east bank of the river for <measure type="distance">10-12 miles</measure> -
+               known as <placeName ref="#Gebel_Abu_el_Feda">Gebel Abou-Faydak</placeName>.</p>
          </div>
          <div xml:id="EBA18900102" type="Entry">
             <p>
@@ -705,7 +710,7 @@
                and <pb n="021"/>later to tracking. Late in the afternoon a good breeze carried us on
                our way into the evening, when we struck a sand bank, but soon got away, and anchored
                in mid river for the night. All day we have been passing the great cliffs of the
-                  <placeName ref="#Gebel_Aboufaydah">Gebel Aboufaydah</placeName> chain - at
+                  <placeName ref="#Gebel_Abu_el_Feda">Gebel Aboufaydah</placeName> chain - at
                   <placeName ref="#Manfalout">Manfalout</placeName> they rise abruptly from the
                water. These limestone cliffs, like all the long range almost unbroken that has
                followed us from <placeName ref="#Cairo">Cairo</placeName>, are honey combed with
@@ -721,7 +726,7 @@
             </p>
             <p>This morning was bright and beautiful - yet the thermometer marked <measure
                   type="temperature">45º</measure>. We found ourselves opposite the southern
-               extremity of the <placeName ref="#Gebel_Aboufaydah">Gebel Aboufaydah</placeName>
+               extremity of the <placeName ref="#Gebel_Abu_el_Feda">Gebel Aboufaydah</placeName>
                range - where are situated the famous grottoes of <placeName ref="#Maabdeh"
                   >Maabdeh</placeName> - filled with thousands and thousands of mummied crocodiles -
                and some human mummies, which are decorated most richly. I hear that these caves have
@@ -901,7 +906,7 @@
                   ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Salah_Mohammed"
                   >M.S.</persName> continually exchanging compliments on the fine sailing qualities
                of the "<name type="vessel" ref="#Nubia">Nubia</name>". The villages are growing very
-               picturesque. We have passed several large populous towns - <placeName ref="Sohag"
+               picturesque. We have passed several large populous towns - <placeName ref="#Sohag"
                   >Sohag</placeName>, with a population of 8700 - with mosques and minarets - and
                   <placeName ref="#Girgeh">Girgeh</placeName>, with a lovely minaret. All of these
                towns are built on the site of, or near ancient ruins and tombs, most interesting to
@@ -939,12 +944,12 @@
                   <date when="1890-01-07">Tuesday - Jan. 7th</date>
                </title>
             </p>
-            <p>We put off from <placeName ref="Balliana">Ballianeh</placeName> very early yesterday
+            <p>We put off from <placeName ref="#Balliana">Ballianeh</placeName> very early yesterday
                morning in a fine wind - but it grew lighter and lighter until about 1 o'clock we
                were left "a painted ship" upon the water. Then we wished we had <pb n="030"/>given
                the day to <placeName ref="#Abydos">Abydos</placeName>. The wind not only gave out
                for a time, but veered to the south, and we had to throw out an anchor. We caught up
-               and passed <name type="vessel" ref="#The_Flying_Dutchman">the Flying Dutchman</name>,
+               and passed the <name type="vessel" ref="#Flying_Dutchman">Flying Dutchman</name>,
                however, before this, and have kept each other in sight ever since - for today has
                been much like yesterday with only less wind - and what with tracking and polling, we
                have only made <measure type="distance">5 miles</measure>, whereas yesterday we made
@@ -1055,12 +1060,12 @@
             <p>Again a day of little wind, and with all the effort we could make, we are only
                anchored tonight about 12 miles from <placeName ref="#Luxor">Luxor</placeName> - with
                the big American tied up just behind us, we having succeeded in passing her today as
-               she was stuck on a sand bank. <name type="vessel" ref="#The_Flying_Dutchman">The
-                  Flying Dutchman</name> too, is just ahead of us. This morning, as we were lying by
-               a high bank with a luxuriant grove of <rs type="plant" ref="#palm_trees">palm
-                  trees</rs>, <persName ref="#Davis_Theodore">Theodore</persName> and <persName
+               she was stuck on a sand bank. The <name type="vessel" ref="#Flying_Dutchman">Flying
+                  Dutchman</name> too, is just ahead of us. This morning, as we were lying by a high
+               bank with a luxuriant grove of <rs type="plant" ref="#palm_trees">palm trees</rs>,
+                  <persName ref="#Davis_Theodore">Theodore</persName> and <persName
                   ref="#Salah_Mohammed">M.S.</persName> went off for a walk, <persName
-                  ref="Buttles_Mary">Mary</persName> established herself on the bank to finish the
+                  ref="#Buttles_Mary">Mary</persName> established herself on the bank to finish the
                sketch of the dahabeah begun several days ago - and I and <persName ref="#Georgette"
                   >Georgette</persName> escorted by one of our men carrying a long pole, without
                which an Arab does not seem able to walk, clambered up the bank for a little stroll.
@@ -1181,7 +1186,7 @@
                gesticulations with those who had sold, but also had not got so much money as they
                demanded, our old hag beat her breast, and went through the motions at least of
                tearing her hair. <persName ref="#Salah_Mohammed">M.S.</persName> and <pb n="039"
-               />the <persName ref="#Ibraim_Hannah">Hannah Ibraim</persName>, our stately cook,
+               />the <persName ref="#Ibrahim_Hannah">Hannah Ibraim</persName>, our stately cook,
                coming quietly on board, with some of our men bringing on the purchases, was the
                signal for the breaking up of the market, a sudden peace fell, and they all went off
                chatting and smiling. There is always this scene on these occasions - they are never
@@ -1242,26 +1247,28 @@
                were slowly stealing by the town, to our mooring place beyond. The more modern part
                of the town looking quite attractive with some good houses, and many trees, the older
                part rising from the river in very irregular fashion, the clustered mud houses
-               looking more like a <choice><sic>hugh</sic><corr>huge</corr></choice> wasp's nest,
-               than anything else - and just the same color. It is built over the mounds of the
-               ancient city of <placeName ref="#Letopolis">Letopolis</placeName> - the yawning
-               apertures of which show that each innundation of the river, tumbles down a portion of
-               it. As we sailed slowly along, we noticed a little tide of people from the town
-               sitting in our wake, and by the time we pulled to shore on the banks of a flourishing
-               green wheat field, we found a select audience squatted in a row in front of us, with
-               new comers constantly arriving - some carried in their arms, turkeys and chickens,
-               one brought a sheep, others, the pretty baskets made at <placeName ref="#Aswan"
-                  >Assouan</placeName> and all the country about here - of which the fashion in
-               shape and decoration has not changed since the days of the Pharaohs. One little black
-               tot, about five years old, with remnants of a faded blue cotton gown hanging about
-               his naked body, clutched so affectionately to him a sad, scrawney half-grown chicken,
-               and every time I looked at him, he held up the poor thing by its wings, and grinned
-               so anxiously at me, that I sent <persName ref="#Salah_Mohammed">M.S.</persName> out
-               with a half piastre to give him, and to tell him <pb n="042"/>to take himself and his
-               chicken home. This treatment was so effective that the next morning early, he was
-               found squatting on the same spot, and hugging the same chicken, prepared to repeat
-               his experience of the night before. <placeName ref="#Esneh">Esneh</placeName> is
-               noted for its colony of <orgName ref="#Ghawazi"><choice>
+               looking more like a <choice>
+                  <sic>hugh</sic>
+                  <corr>huge</corr>
+               </choice> wasp's nest, than anything else - and just the same color. It is built over
+               the mounds of the ancient city of <placeName ref="#Letopolis">Letopolis</placeName> -
+               the yawning apertures of which show that each innundation of the river, tumbles down
+               a portion of it. As we sailed slowly along, we noticed a little tide of people from
+               the town sitting in our wake, and by the time we pulled to shore on the banks of a
+               flourishing green wheat field, we found a select audience squatted in a row in front
+               of us, with new comers constantly arriving - some carried in their arms, turkeys and
+               chickens, one brought a sheep, others, the pretty baskets made at <placeName
+                  ref="#Aswan">Assouan</placeName> and all the country about here - of which the
+               fashion in shape and decoration has not changed since the days of the Pharaohs. One
+               little black tot, about five years old, with remnants of a faded blue cotton gown
+               hanging about his naked body, clutched so affectionately to him a sad, scrawney
+               half-grown chicken, and every time I looked at him, he held up the poor thing by its
+               wings, and grinned so anxiously at me, that I sent <persName ref="#Salah_Mohammed"
+                  >M.S.</persName> out with a half piastre to give him, and to tell him <pb n="042"
+               />to take himself and his chicken home. This treatment was so effective that the next
+               morning early, he was found squatting on the same spot, and hugging the same chicken,
+               prepared to repeat his experience of the night before. <placeName ref="#Esneh"
+                  >Esneh</placeName> is noted for its colony of <orgName ref="#Ghawazi"><choice>
                      <sic>Chewagi</sic>
                      <corr>Ghawazi</corr>
                   </choice></orgName>, or dancing girls - and many of them came trooping down to the
@@ -1292,7 +1299,7 @@
                since dinner. It was cheerful and homelike to look down on the lower deck, lighted
                with its lantern, and enclosed with awnings. <persName ref="#Salah_Mohammed"
                   >M.S.</persName>, <persName ref="#Achmed_Rais">Rais Achmed</persName>, Cook
-                  <persName ref="#Ibraim_Hannah">Hanna</persName>, <persName ref="#Hassan"
+                  <persName ref="#Ibrahim_Hannah">Hanna</persName>, <persName ref="#Hassan"
                   >Hassan</persName>, and a gen d'armes from the town who had come in for a visit,
                were all squatting about in a social circle, with pipes and coffee and gossip, while
                the little deck cook <persName ref="#Benis">Benis</persName>, in his blue gown and
@@ -1317,7 +1324,7 @@
                filthy and discouraging as those we have seen in every other mud town of <placeName
                   ref="#Egypt">Egypt</placeName>. The heat was great, and the flies thick. Then we
                went to the temple, which is more than half buried in the accumulated soil of
-               centuries. <persName ref="#Ali_Mohemet">Mohemet Ali</persName> cleared out the
+               centuries. <persName ref="#Ali_Mohammed">Mohemet Ali</persName> cleared out the
                hypostyle hall, for some kind of magazine - the rest of it lies buried under the
                modern village. It belongs to the Roman period - is built of sandstone, and even to
                my uneducated eye, showed poor and rough sculpture, the capitals however were varied
@@ -1328,7 +1335,8 @@
                and the low sand shores of the opposite side, with their fringe of <rs type="plant"
                   ref="#palm_trees">palm trees</rs> against the yellow cliffs beyond them, the
                unruffled water, all were the expression of perfect repose. During the evening the
-                  <name type="boat" ref="#Ramses">Ramesis</name> passed us, on her return trip.</p>
+                  <name type="vessel" ref="#Rameses">Ramesis</name> passed us, on her return
+               trip.</p>
          </div>
          <div xml:id="EBA18900115" type="Entry">
             <p>
@@ -1366,7 +1374,7 @@
                miles of desolate, but interesting scenery, the occasional little strip of cultivated
                land, showing emerald green in the desolation. We passed <placeName
                   ref="#Gebel_Silsileh">Gebel Silsileh</placeName>, and then <placeName
-                  ref="#Kom_Ombos">Kom Ombos</placeName> like <pb n="046"/>the wind - and could only
+                  ref="#Kom_Ombo">Kom Ombos</placeName> like <pb n="046"/>the wind - and could only
                have a glimpse of them as we rushed by. We have reached the region of the "Sakkieh"
                or water wheel, which has almost superceded the pole and bucket of the Shadoof. The
                Sakkieh consists of two cogged wooden wheels, one set horizontally a few feet from
@@ -1560,7 +1568,7 @@
                this song may be, for this river to the Egyptians and <orgName ref="#Nubians"
                   >Nubians</orgName> has been for thousands and thousands of years "the shining
                way". On our return we found the cards of some English officers on our tea table, and
-               an American dahabeah had arrived. We now make four here - as the "<name type="boat"
+               an American dahabeah had arrived. We now make four here - as the "<name type="vessel"
                   ref="#The_Flying_Dutchman">Flying Dutchman</name>" came up this morning. <persName
                   ref="#Salah_Mohammed">M.S.</persName> tells me she has worked up the river in a
                very hard fashion, sailing night and day.</p>
@@ -1596,7 +1604,7 @@
                coffee served, thanks to the thoughtfulness of <persName ref="#Salah_Mohammed"
                   >M.S.</persName>
                <persName ref="#Davis_Theodore">Theodore</persName> lighted a cigar, <persName
-                  ref="Buttles_Mary">Mary</persName> went off some distance to sketch this little
+                  ref="#Buttles_Mary">Mary</persName> went off some distance to sketch this little
                temple, and I opened my books to read about its history. Across the river at the edge
                of a town was a burying ground and little mosque - and a strange sound of wailing
                attracted my attention. I saw a great collection of people, and with the glass
@@ -1639,7 +1647,7 @@
                nothing could be seen because of the clouds of blinding dust - and we were glad to
                take shelter in the so called "Queens Chamber", opening out of the inner court, where
                in the gloom and dust, <persName ref="#Salah_Mohammed">M.S.</persName> and <persName
-                  ref="#Jagoub">"Jagoub"</persName> were busy setting out our lunch - and what a
+                  ref="#Jacoub">"Jagoub"</persName> were busy setting out our lunch - and what a
                good one it was! The wind increasing, we sent a card to <persName ref="#Newman_Mrs"
                   >Mrs. Newman</persName>, excusing ourselves from tea, and were taken across the
                river again, and after some noisy talking and vociferating, were riding home across
@@ -1668,13 +1676,13 @@
                officer of King <persName ref="#Pepi_II">Pepi 2d</persName>. The paintings are
                something startling and wonderful in their freshness - with a brilliant white
                metallic background, and the colors as fast as though laid on yesterday. So new and
-               fresh did they look that <persName ref="Davis_Theodore">Theodore</persName> scouted
+               fresh did they look that <persName ref="#Davis_Theodore">Theodore</persName> scouted
                politely at my assertion that they had not <pb n="058"/>been "restored". Coming away
                we saw what I might call a hillside of human skulls and bones, and fluttering shreds
                of mummy cloth - and the Custodian of the tombs had a sweetly pretty collection of
                grinning skulls, and stray femurs and tibias etc. mingled with a few insignificant
                ornaments and rude broken pottery. Am so sorry I did not buy one of these ancient
-               skulls for <persName ref="Rogers_Will">Will Rogers</persName>! It never occurred to
+               skulls for <persName ref="#Rogers_Will">Will Rogers</persName>! It never occurred to
                me like most of my happy thoughts until too late. After luncheon again in the felucca
                and across the river, and while <persName ref="#Buttles_Mary">Mary</persName> and
                   <persName ref="#Davis_Theodore">Theodore</persName> walked, I went into the bazaar
@@ -1718,7 +1726,7 @@
                   ref="#Sudan">Soudan</placeName>. The rocks are most fantastic - piled up on their
                enormous rounded surfaces - in many places showing the sky between their interstices,
                and looking as if a breath of wind might topple them over - and everywhere the
-               yellow, yellow sand from the <placeName ref="Libya">Lybian</placeName> desert - in
+               yellow, yellow sand from the <placeName ref="#Libya">Lybian</placeName> desert - in
                some places in such great drifts between the hills, <pb n="060"/>that they looked
                like glazier beds of solid gold. Where the rocks had been broken, the syenite or
                porphyry showed most lovely tints. I could not but exclaim again and again at the
@@ -1757,7 +1765,7 @@
                noticed on the <placeName ref="#Nile_River">Nile</placeName>, was already gathering.
                We might have thought of the old <persName ref="#Ptolemy">Ptolemies</persName>, of
                   <persName ref="#Cleopatra">Cleopatra</persName>, of the changing fortunes and
-               history of this lovely island, but, as <persName ref="Bey_Mariette"
+               history of this lovely island, but, as <persName ref="#Bey_Mariette"
                   >Mariette</persName> says, "the impression of the moment must prevail over the
                memories evoked", and we drank in the beauty, without saying much of its history -
                while trying to photograph the scene upon my mind, the thought arose again and again
@@ -1789,7 +1797,7 @@
             <p>This afternoon the felucca took us across to <placeName ref="#Aswan"
                   >Assouan</placeName>, to visit the Government Dispensary, as we wanted glue,
                sticking plaster, and quinine pills - only this last could be had. <persName
-                  ref="#Davis_Theodore">T</persName>. and <persName ref="Buttles_Mary"
+                  ref="#Davis_Theodore">T</persName>. and <persName ref="#Buttles_Mary"
                   >Mary</persName>then walked, while <persName ref="#Salah_Mohammed">M.S.</persName>
                and some of the men went with me in to the bazaar, where I never tire of going, and
                looking at that strange crowd. The Busharin Bedouins are the most barbarous looking
@@ -1799,31 +1807,31 @@
                Abdallahs! I came away with some very pretty Nubian baskets - and was rowed down to
                the trysting place. I saw <orgName ref="Hughes">Sir Frederick and Lady
                   Hughes</orgName> entering the <orgName ref="#Thomas_Cook_and_Son">Cook</orgName>'s
-               steamer "<name type="boat" ref="#Amasis">Amasis</name>" so I was carried ashore, and
-               walked down to it meeting <persName ref="#Buttles_Mary">Mary</persName> and <persName
-                  ref="#Davis_Theodore">Theodore</persName> on the way, and we all went on board to
-               look them up - found them and asked them to dinner, promising to send the felucca for
-               them. They accepted with delight evidently - as <persName ref="#Hughes_Lady">Lady
-                  Hughes</persName> was very anxious to know something of life on a dahabeah. Then
-               we hurried home through the rose tinted water, to give the cook a warning. Such
-               dismay as it created, for he declared he had nothing! absolutely nothing, with his
-               hand upon his heart in a tragic manner. Then I attempted to subdue some of the
-               eastern abundance of the table, and plunged <persName ref="#Hassan">Hassan</persName>
-               in deep despair, by telling him to carry three of the four dishes of nuts he always
-               will put on the table away - and making a selection from the numerous sweetmeats, and
-               keeping only one dish of oranges. Even <persName ref="#Salah_Mohammed"
-                  >M.S.</persName> thought I carried the matter too far, in my attempt at elegant
-               simplicity. We had a delicious dinner, among other things a very knowing sweetbread
-               vol-au-vent - and <persName ref="#Ibrahim_Hanna">Hanna Ibrahim</persName> makes the
-               most perfect pastry I have ever seen. This evidently commended itself warmly to
-                  <persName ref="#Hughes_Sir_Frederick">Sir Frederick</persName> - and he was loud
-               in his praises of our cook. We went up to the deck with <persName
-                  ref="#Hughes_Sir_Frederick">Sir F.</persName> and <persName ref="#Davis_Theodore"
-                  >Theodore</persName> when they went to smoke. <persName ref="#Salah_Mohammed"
-                  >M.S.</persName> had arranged it most charmingly with lanterns, and the crew down
-               on their deck played and sang their choicest songs. We sent them home delighted with
-               their visit and could hear the songs of the men as they went in the stillness of the
-               night across to the steamer.</p>
+               steamer "<name type="vessel" ref="#Amasis">Amasis</name>" so I was carried ashore,
+               and walked down to it meeting <persName ref="#Buttles_Mary">Mary</persName> and
+                  <persName ref="#Davis_Theodore">Theodore</persName> on the way, and we all went on
+               board to look them up - found them and asked them to dinner, promising to send the
+               felucca for them. They accepted with delight evidently - as <persName
+                  ref="#Hughes_Lady">Lady Hughes</persName> was very anxious to know something of
+               life on a dahabeah. Then we hurried home through the rose tinted water, to give the
+               cook a warning. Such dismay as it created, for he declared he had nothing! absolutely
+               nothing, with his hand upon his heart in a tragic manner. Then I attempted to subdue
+               some of the eastern abundance of the table, and plunged <persName ref="#Hassan"
+                  >Hassan</persName> in deep despair, by telling him to carry three of the four
+               dishes of nuts he always will put on the table away - and making a selection from the
+               numerous sweetmeats, and keeping only one dish of oranges. Even <persName
+                  ref="#Salah_Mohammed">M.S.</persName> thought I carried the matter too far, in my
+               attempt at elegant simplicity. We had a delicious dinner, among other things a very
+               knowing sweetbread vol-au-vent - and <persName ref="#Ibrahim_Hannah">Hanna
+                  Ibrahim</persName> makes the most perfect pastry I have ever seen. This evidently
+               commended itself warmly to <persName ref="#Hughes_Sir_Frederick">Sir
+                  Frederick</persName> - and he was loud in his praises of our cook. We went up to
+               the deck with <persName ref="#Hughes_Sir_Frederick">Sir F.</persName> and <persName
+                  ref="#Davis_Theodore">Theodore</persName> when they went to smoke. <persName
+                  ref="#Salah_Mohammed">M.S.</persName> had arranged it most charmingly with
+               lanterns, and the crew down on their deck played and sang their choicest songs. We
+               sent them home delighted with their visit and could hear the songs of the men as they
+               went in the stillness of the night across to the steamer.</p>
             <pb n="064"/>
             <p>Every day adds to the charm of <placeName ref="#Aswan">Assouan</placeName> - and we
                loudly and constantly bemoan the fact that we have so little time. We have discussed
@@ -1856,7 +1864,7 @@
                   >Theodore</persName> kindly turned him over to me to entertain, so I walked along
                with him and <persName ref="#Salah_Mohammed">M.S.</persName> keeping up a certain
                amount of talk - while <persName ref="#Davis_Theodore">Theodore</persName> and
-                  <persName ref="Buttles_Mary">Mary</persName> walked behind indulging in the most
+                  <persName ref="#Buttles_Mary">Mary</persName> walked behind indulging in the most
                amusing criticisms of me and my <pb n="065"/>official, but the little black fellow,
                looking so uncomfortable and gênè in his European dress, seemed to find so much
                satisfaction in the situation, that all my impatience vanished. We went into a very
@@ -1889,10 +1897,10 @@
             <p>A serious consultation was held this morning, as the question of the day of our
                departure could no longer be deferred. After sighs and groans and useless
                protestations, we finally decided that we must be off tomorrow. <persName
-                  ref="Buttles_Mary">Mary</persName> at once said she should devote the morning to
-               the painting of <persName ref="#Ali_Mahomet">Mahomet Ali</persName>, our 2d
+                  ref="#Buttles_Mary">Mary</persName> at once said she should devote the morning to
+               the painting of <persName ref="#Ali_Mohammed">Mahomet Ali</persName>, our 2d
                steersman, so leaving her surrounded by her paints in the cabin, with poor <persName
-                  ref="Ali_Mahomet">Mahomet</persName> stiffening out of all his usual grace,
+                  ref="#Ali_Mohammed">Mahomet</persName> stiffening out of all his usual grace,
                   <persName ref="#Davis_Theodore">Theodore</persName> and I with four of the men
                went out in the felucca for a last tour among the islands. <persName
                   ref="#Davis_Theodore">Theodore</persName> steering - to the great amusement of the
@@ -1924,20 +1932,20 @@
                little huts sewing. The children looked clean and had good eyes - and the women were
                good looking, quiet and respectful - their densely black skins, with their white
                dress and silver ornaments being very effective. There is a head woman or matron,
-                  <persName ref="Judge_Captain">Capt. Judge</persName> told us, who exercises a kind
-               of discipline over the women - as to their cleanliness, order etc. and the pay of the
-               men is so good, that many of them keep a servant. He also told us that there are now
-               no English soldiers above <placeName ref="#Cairo">Cairo</placeName> - though all the
-               principal officers are English. The Egyptian Army numbers about 13,000. All of the
-               officers speak most highly of these Soudanese soldiers - even affectionately - they
-               are tall, well made men - black as a polished stove pipe - quiet under discipline -
-               of great endurance, and can outmarch any English or European soldier. They <pb
-                  n="068"/>receive 20 cents a day, clothes and rations - and are so much better off
-               than in their native state, that the army can never want soldiers. They enlist during
-               the pleasure of the Government, which really means for life, or as long as they
-               remain able bodied. The utmost decency - cleanliness and order are exacted from them
-               - and the army in this way, must act, through the influence of the English officers
-               commanding it, as a potent engine for civilization and good.</p>
+                  <persName ref="#Judge_Captain">Capt. Judge</persName> told us, who exercises a
+               kind of discipline over the women - as to their cleanliness, order etc. and the pay
+               of the men is so good, that many of them keep a servant. He also told us that there
+               are now no English soldiers above <placeName ref="#Cairo">Cairo</placeName> - though
+               all the principal officers are English. The Egyptian Army numbers about 13,000. All
+               of the officers speak most highly of these Soudanese soldiers - even affectionately -
+               they are tall, well made men - black as a polished stove pipe - quiet under
+               discipline - of great endurance, and can outmarch any English or European soldier.
+               They <pb n="068"/>receive 20 cents a day, clothes and rations - and are so much
+               better off than in their native state, that the army can never want soldiers. They
+               enlist during the pleasure of the Government, which really means for life, or as long
+               as they remain able bodied. The utmost decency - cleanliness and order are exacted
+               from them - and the army in this way, must act, through the influence of the English
+               officers commanding it, as a potent engine for civilization and good.</p>
             <p>By the time we had inspected the quarters, the dancers were in full swing - and we
                walked about looking at them. Every tribe danced by themselves - and two or three
                drummers formed the centre of each ring of dancers. Their drums were native, a rude
@@ -2096,7 +2104,7 @@
                it must have been here at that time, the rocks on the western shore gay with
                paintings, and the silent stone figures sitting in their boxes watching it all. The
                climbing here was something fearful - and I did not suppose I would be able to see
-               much of the grottoes and quarries, but <persName ref="#Ali_Mahomet">Mahomet
+               much of the grottoes and quarries, but <persName ref="#Ali_Mohammed">Mahomet
                   Ali</persName> and <persName ref="#Jacoub">Jacoub,</persName> and sometimes
                   <persName ref="#René">René</persName> carried me up and down and about that day,
                with the most smiling alacrity, wading through the sand and up and down the rocks,
@@ -2112,23 +2120,23 @@
                excellent description of these quarries. When we crossed back to the <name
                   type="vessel" ref="#Nubia">Nubia</name>, the wind was so violent, we shipped
                water, and had to make a long distance. In the afternoon we went to the important
-               "grotto of <persName ref="#Horus">Horus</persName>," the last king of the 18th
-               dynasty. It is a long corridor out in the rock, and supported by four pillars - its
-               rich sculptures and paintings are mutilated and worn, until they are almost
-               undecipherable - irregular holes 4 and 5 inches deep drilled into them, show how
-               careful the destruction has been. The beautiful bas relief so well known of a goddess
-               suckling the infant <persName ref="#Horus">Horus</persName> is here. <persName
-                  ref="#Bey_Mariette">Mariette</persName> pronounces it the best specimen of
-               Egyptian art - and in spite of the ruin of it, it shows a sweetness and sentiment I
-               have seen nowhere else. At the other end of the grotto is the almost equally well
-               known "Triumph of <persName ref="#Horus">Horus</persName>". While <persName
-                  ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Buttles_Mary"
-                  >Mary</persName> went off with <persName ref="#Salah_Mohammed">M.S.</persName> for
-               what they called a walk, I and <persName ref="#Georgette">Georgette</persName>
-               strolled up and down the little beach where we had landed in the felucca, and picked
-               some leaves of all the different things we could find, - almost all of which
-                  <persName ref="#Salah_Mohammed">M.S.</persName> pronounced "poison" when he saw
-               them - though I knew better.</p>
+               "grotto of <persName ref="#Horus">Horus</persName>," the last king of the <date
+                  from="-1549" to="-1292">18th dynasty</date>. It is a long corridor out in the
+               rock, and supported by four pillars - its rich sculptures and paintings are mutilated
+               and worn, until they are almost undecipherable - irregular holes 4 and 5 inches deep
+               drilled into them, show how careful the destruction has been. The beautiful bas
+               relief so well known of a goddess suckling the infant <persName ref="#Horus"
+                  >Horus</persName> is here. <persName ref="#Bey_Mariette">Mariette</persName>
+               pronounces it the best specimen of Egyptian art - and in spite of the ruin of it, it
+               shows a sweetness and sentiment I have seen nowhere else. At the other end of the
+               grotto is the almost equally well known "Triumph of <persName ref="#Horus"
+                  >Horus</persName>". While <persName ref="#Davis_Theodore">Theodore</persName> and
+                  <persName ref="#Buttles_Mary">Mary</persName> went off with <persName
+                  ref="#Salah_Mohammed">M.S.</persName> for what they called a walk, I and <persName
+                  ref="#Georgette">Georgette</persName> strolled up and down the little beach where
+               we had landed in the felucca, and picked some leaves of all the different things we
+               could find, - almost all of which <persName ref="#Salah_Mohammed">M.S.</persName>
+               pronounced "poison" when he saw them - though I knew better.</p>
          </div>
          <pb n="076"/>
          <div xml:id="EBA18900128" type="Entry">
@@ -2243,12 +2251,12 @@
                and sang their songs softly - and some were at their devotions prostrate. We had not
                finished dinner before we arrived, and when we went on deck we found ourselves en
                fête - colored lights swung from the masts and hung about everywhere - and Cook
-                  <persName ref="#Ibrahim_Hanna">Ibrahim</persName> was sending off rockets, which
+                  <persName ref="#Ibrahim_Hannah">Ibrahim</persName> was sending off rockets, which
                were received with shouts of admiration from the shadowy stretches of the river. We
-               found the "<name type="vessel" ref="#The_Flying_Dutchman">Flying Dutchman</name>"
-               lying just behind us. <persName ref="#Salah_Mohammed">M.S.</persName> went off
-               directly with some of the men to the Post Office, and returned with a large parcel of
-               letters and papers, which we have been busy reading all the evening.</p>
+               found the "<name type="vessel" ref="#Flying_Dutchman">Flying Dutchman</name>" lying
+               just behind us. <persName ref="#Salah_Mohammed">M.S.</persName> went off directly
+               with some of the men to the Post Office, and returned with a large parcel of letters
+               and papers, which we have been busy reading all the evening.</p>
          </div>
          <div xml:id="EBA18900131" type="Entry">
             <p>
@@ -2269,7 +2277,7 @@
                   ref="#Seti_I">Seti Ist</persName>. We sat down on some of the great fallen blocks
                - and we looked and felt like pigmies. Then when we had grown a little too cold for
                it is always one or the other thing in this climate, we opened <persName
-                  ref="Mariette">Mariette</persName> and read his description of the temple. I
+                  ref="#Bey_Mariette">Mariette</persName> and read his description of the temple. I
                believe the giant monolith of red <placeName ref="#Aswan">Assouan</placeName>
                granite, which stands the taller of the two tall obelisks now left there, impressed
                me most - it is covered with inscriptions, exquisitely cut. The ride home was very
@@ -2303,55 +2311,56 @@
                path, leading through the pleasant <rs type="plant" ref="#rye">rye</rs> and <rs
                   type="plant" ref="#barley">barley</rs> fields - though warm, it was most
                delightful with the great yellow mountains in front of us, with their pinkish shadows
-               sleeping in the hollows - while - could it be true! the great Colossi of the plains
-               defining themselves in the distance, and growing bigger and bigger! Every one must I
-               think, have the same feeling on first beholding these giants. Are they only
-               melancholy monuments of the glory of a past gigantic art - or do they wait expectant!
-               oblivious of this <pb n="083"/>little present, and of our little selves! Their
-               patient attitude seems to confirm this idea - and one is filled with awe when one
-               gets a dim sense of how they have been sitting there thousands of years! When a long
-               distance from them, one invests their faces with expression but a nearer view shows
-               them battered and broken - every feature gone. They were originally monoliths - but
-               one of them has been restored with layers of sandstone. They are of breccia, and
-               stood before a temple every vestige of which is gone, and both represent - <persName
-                  ref="#Amenophis_III">Amenophis III</persName>. They stood 60 ft. high, though now
-               the soil has accumulated more than 6 ft. about them - but they are colossal, as we
-               pause under them and ride about them. A little distance on, you strike the desert
-               line, and begin to take your way at the edge of the ancient necropolis - which here
-               at least, must have yielded up all the dead ever committed to its keeping, so full is
-               it of yawning pits and excavations. The reflection of the sun strikes burning hot
-               from the yellow sand, and I am glad enough to take my parasol from the faithful
-                  <persName ref="#Jacoub">Jacoub</persName>, who has been running all the time, with
-               my donkey boy by the side of me, with <persName ref="#Salah_Mohammed">M.S.</persName>
-               hovering about on his donkey now and then to see if I was properly cared for.
-                  <placeName ref="#Medinet_Habu">Medinet Abou</placeName> would be almost as hard to
-               describe as <placeName ref="#Karnak">Karnak</placeName>. It is the wonderful monument
-               built by the brilliant <persName ref="#Ramses_III">Rameses 3rd</persName> to
-               celebrate his victories and achievements - and is preceeded by a small temple of
-                  <persName ref="#Tuthmosis_III">Thotmes 3d</persName> or <persName
-                  ref="#Hatshepsut">Hatasou</persName> - and by the palace or pavilion of <persName
-                  ref="#Ramses_III">Rameses 3d</persName> - which some suppose to have been a royal
-               residence, so unique is its arrangement, but which was more probably a fortress. <pb
-                  n="084"/>Here are shield shaped battlemented walls. The grand temple with greater
-               and lesser court, the former with its Osiride piers on two sides, and great columns
-               on the other, with their unusually deep hieroglyphs and sculptures, with very much of
-               the brilliant blue colouring remaining, was fascinating. One could spend hours and
-               days looking at and studying the sculptured walls. I climbed about as much as I could
-               over the great debris, supported so effectually by <persName ref="#Salah_Mohammed"
-                  >M.S.</persName> and one of the men, that I thought my arms would be dislocated!
-               Then we mounted again and rode through the old grove pits, and along the strip of
-               desert land, between the mountains and the cultivated plain to the temple of
-                  <placeName ref="#Qurna">Goornah</placeName>, built by <persName ref="#Seti_I">Seti
-                  Ist</persName> to the memory of his father <persName ref="#Ramses_I">Rameses
-                  Ist</persName>. Here the sculptures are most delicate and beautiful, and show the
-               perfection of that culminating period of art. In one of the side chambers is a head
-               of <persName ref="#Seti_I">Seti Ist</persName> which is always pointed out, and which
-               is really beautiful in its lines, but which alas! has lost all its colouring through
-               that disgraceful process of "squeezing". The ride home at high noon through that
-               blazing sun was something rather uncomfortable. We found our little felucca, with its
-               awning and stars and stripes waiting for us, and we were carried out to it, after the
-               usual noisy settling up with guides and donkey men. How deliciously cool and secluded
-               the cabin of the <name type="vessel" ref="#Nubia">Nubia</name> seemed to us! The
+               sleeping in the hollows - while - could it be true! the great <name type="monument"
+                  ref="#Colossi_of_Memnon">Colossi</name> of the plains defining themselves in the
+               distance, and growing bigger and bigger! Every one must I think, have the same
+               feeling on first beholding these giants. Are they only melancholy monuments of the
+               glory of a past gigantic art - or do they wait expectant! oblivious of this <pb
+                  n="083"/>little present, and of our little selves! Their patient attitude seems to
+               confirm this idea - and one is filled with awe when one gets a dim sense of how they
+               have been sitting there thousands of years! When a long distance from them, one
+               invests their faces with expression but a nearer view shows them battered and broken
+               - every feature gone. They were originally monoliths - but one of them has been
+               restored with layers of sandstone. They are of breccia, and stood before a temple
+               every vestige of which is gone, and both represent - <persName ref="#Amenophis_III"
+                  >Amenophis III</persName>. They stood 60 ft. high, though now the soil has
+               accumulated more than 6 ft. about them - but they are colossal, as we pause under
+               them and ride about them. A little distance on, you strike the desert line, and begin
+               to take your way at the edge of the ancient necropolis - which here at least, must
+               have yielded up all the dead ever committed to its keeping, so full is it of yawning
+               pits and excavations. The reflection of the sun strikes burning hot from the yellow
+               sand, and I am glad enough to take my parasol from the faithful <persName
+                  ref="#Jacoub">Jacoub</persName>, who has been running all the time, with my donkey
+               boy by the side of me, with <persName ref="#Salah_Mohammed">M.S.</persName> hovering
+               about on his donkey now and then to see if I was properly cared for. <placeName
+                  ref="#Medinet_Habu">Medinet Abou</placeName> would be almost as hard to describe
+               as <placeName ref="#Karnak">Karnak</placeName>. It is the wonderful monument built by
+               the brilliant <persName ref="#Ramses_III">Rameses 3rd</persName> to celebrate his
+               victories and achievements - and is preceeded by a small temple of <persName
+                  ref="#Tuthmosis_III">Thotmes 3d</persName> or <persName ref="#Hatshepsut"
+                  >Hatasou</persName> - and by the palace or pavilion of <persName ref="#Ramses_III"
+                  >Rameses 3d</persName> - which some suppose to have been a royal residence, so
+               unique is its arrangement, but which was more probably a fortress. <pb n="084"/>Here
+               are shield shaped battlemented walls. The grand temple with greater and lesser court,
+               the former with its Osiride piers on two sides, and great columns on the other, with
+               their unusually deep hieroglyphs and sculptures, with very much of the brilliant blue
+               colouring remaining, was fascinating. One could spend hours and days looking at and
+               studying the sculptured walls. I climbed about as much as I could over the great
+               debris, supported so effectually by <persName ref="#Salah_Mohammed">M.S.</persName>
+               and one of the men, that I thought my arms would be dislocated! Then we mounted again
+               and rode through the old grove pits, and along the strip of desert land, between the
+               mountains and the cultivated plain to the temple of <placeName ref="#Qurna"
+                  >Goornah</placeName>, built by <persName ref="#Seti_I">Seti Ist</persName> to the
+               memory of his father <persName ref="#Ramses_I">Rameses Ist</persName>. Here the
+               sculptures are most delicate and beautiful, and show the perfection of that
+               culminating period of art. In one of the side chambers is a head of <persName
+                  ref="#Seti_I">Seti Ist</persName> which is always pointed out, and which is really
+               beautiful in its lines, but which alas! has lost all its colouring through that
+               disgraceful process of "squeezing". The ride home at high noon through that blazing
+               sun was something rather uncomfortable. We found our little felucca, with its awning
+               and stars and stripes waiting for us, and we were carried out to it, after the usual
+               noisy settling up with guides and donkey men. How deliciously cool and secluded the
+               cabin of the <name type="vessel" ref="#Nubia">Nubia</name> seemed to us! The
                thermometer in the shade of the deck awning marked <measure type="temperature"
                   >78°</measure>. In the afternoon we looked at some antiquities in the town -
                feeling very shy of most of them - knowing that a thriving manufacture of them is
@@ -2374,28 +2383,29 @@
                the wide stretch of yellow sand to the high embankment, and then the sharp turn at
                the mud village, filled with troops of little bare bronze children, and then the long
                ride through the rich <rs type="plant" ref="#barley">barley</rs> fields - for the
-               Theban crops are especially rich - we pass the Colossi, and turn to the right, and
-               riding along the desert edge of this great necropolis, we took our way through and up
-               the path of a mountain torrent which seemed a very valley of desolation - not a
-               living thing - not the faintest trace of vegetable life, or a blade of grass - the
-               sandstone cliffs towering above us on either side, and the sun blazing out upon us
-               from the pitiless sky. What a blinding heat it was, and what a scene of chaotic
-               desolateness! our donkeys picked their way along one after the other with a patient
-               dejection - our men were breathless and perspiring, and I did not like to think of
-               the three girls, almost children who carried the water <pb n="086"/>goolaks on their
-               heads, and who are always waiting on the bank of the river for tourists, and for a
-               few piasters run along with the donkeys with these jugs on their heads - though far
-               in the rear, they stepped along cheerfully over the sharp stones with their bare
-               feet, and if you looked at one, she would immediately show every tooth she had in a
-               broad smile. Occasionally we pulled up in the 'shadow of a great rock" for a moments
-               rest - and I thought as I am continually doing in this country, how natural the
-               Eastern imagery of the Bible seems! At last we came to a kind of cul de sac in the
-               yellow rocks, where is the tomb of <persName ref="#Ramses_IX">Ramesis 9th</persName>,
-               and here we dismounted, for beside seeing the tomb we were going to lunch there. Our
-               patient little donkeys were left in the blinding heat outside, while the men and
-               guides huddled themselves together in the shade of the inclined entrance, while we
-               took possession of the cool, gaily painted portal - our sumpter mule was unpacked,
-               rugs laid down, camp stools and table spread, and an elaborate lunch ready. Our three
+               Theban crops are especially rich - we pass the <name type="monument"
+                  ref="#Colossi_of_Memnon">Colossi</name>, and turn to the right, and riding along
+               the desert edge of this great necropolis, we took our way through and up the path of
+               a mountain torrent which seemed a very valley of desolation - not a living thing -
+               not the faintest trace of vegetable life, or a blade of grass - the sandstone cliffs
+               towering above us on either side, and the sun blazing out upon us from the pitiless
+               sky. What a blinding heat it was, and what a scene of chaotic desolateness! our
+               donkeys picked their way along one after the other with a patient dejection - our men
+               were breathless and perspiring, and I did not like to think of the three girls,
+               almost children who carried the water <pb n="086"/>goolaks on their heads, and who
+               are always waiting on the bank of the river for tourists, and for a few piasters run
+               along with the donkeys with these jugs on their heads - though far in the rear, they
+               stepped along cheerfully over the sharp stones with their bare feet, and if you
+               looked at one, she would immediately show every tooth she had in a broad smile.
+               Occasionally we pulled up in the 'shadow of a great rock" for a moments rest - and I
+               thought as I am continually doing in this country, how natural the Eastern imagery of
+               the Bible seems! At last we came to a kind of cul de sac in the yellow rocks, where
+               is the tomb of <persName ref="#Ramses_IX">Ramesis 9th</persName>, and here we
+               dismounted, for beside seeing the tomb we were going to lunch there. Our patient
+               little donkeys were left in the blinding heat outside, while the men and guides
+               huddled themselves together in the shade of the inclined entrance, while we took
+               possession of the cool, gaily painted portal - our sumpter mule was unpacked, rugs
+               laid down, camp stools and table spread, and an elaborate lunch ready. Our three
                little water carriers squatted near us - girls not over 9 or 10 years of age - pretty
                things they all were, with their beautiful eyes, white teeth and pleasant voices. One
                of them called <persName ref="#Fatima">Fatima</persName> so endeared herself to
@@ -2412,18 +2422,18 @@
                into the solid rock, 470 feet - along the gradual descent of the corridor we went,
                the light from the entrance growing dimmer and dimmer, until we came to a steep
                broken staircase, the lower part of it lost in black darkness - then all our candles
-               were lighted, and with <persName ref="#Mahomed">Mahomed</persName>'s help stumbled
-               down it until we came to a room, then down another staircase, and finally plunged
-               into the yawning blackness of another - the candles flickering and throwing strange
-               lights on the brilliant paintings and hieroglyphs which cover every part of the halls
-               and chambers. Strange monsters and huge serpents writhe along the walls, and guard
-               the entrances. The cheerful realistic representations of every day human life, which
-               the tombs of the earliest dynasties show, are not here. In their place, evil demons
-               and shapes represent the more modern ideas, of the struggle of the soul with evil -
-               and on these walls the whole elaborate story of the judgment and trial of the soul
-               after death is given - Anything more strangely impressive than these great chambers
-               in the heart of the mountain, with their brilliant and elaborate decoration, cannot
-               be imagined. And the thought of the amount and difficulty of the labour, was
+               were lighted, and with <persName ref="#Ali_Mohammed">Mahomed</persName>'s help
+               stumbled down it until we came to a room, then down another staircase, and finally
+               plunged into the yawning blackness of another - the candles flickering and throwing
+               strange lights on the brilliant paintings and hieroglyphs which cover every part of
+               the halls and chambers. Strange monsters and huge serpents writhe along the walls,
+               and guard the entrances. The cheerful realistic representations of every day human
+               life, which the tombs of the earliest dynasties show, are not here. In their place,
+               evil demons and shapes represent the more modern ideas, of the struggle of the soul
+               with evil - and on these walls the whole elaborate story of the judgment and trial of
+               the soul after death is given - Anything more strangely impressive than these great
+               chambers in the heart of the mountain, with their brilliant and elaborate decoration,
+               cannot be imagined. And the thought of the amount and difficulty of the labour, was
                overpowering. What a commentary too, are these strange tombs, hid away in this wild
                and almost inaccessible valley, on the stability of human effort and ambition! To
                think of these right <pb n="088"/>royal old kings, supreme in their power and pride
@@ -2569,10 +2579,10 @@
                the Ritual of the Book of the Dead, but as there may be some other matter with it,
                advises <persName ref="#Davis_Theodore">T</persName>. to submit it to an expert in
                   <placeName ref="#London">London</placeName>, and says he will give him a card of
-               introduction to the head of the Egyptian department of the <placeName
-                  ref="#British_Museum">Museum</placeName>. After he went away, we had only time for
-               a charming row of a mile or two. There are several dahabeahs here now - some bound
-               up, and four like ourselves bound down, <persName ref="#Chester_Greville_Mr">Mr.
+               introduction to the head of the Egyptian department of the <orgName
+                  ref="#British_Museum">Museum</orgName>. After he went away, we had only time for a
+               charming row of a mile or two. There are several dahabeahs here now - some bound up,
+               and four like ourselves bound down, <persName ref="#Chester_Greville_Mr">Mr.
                   Chester</persName>s among the number. It looks very pretty and gay. After dinner
                   <persName ref="#Salah_Mohammed">M.S.</persName> came to us and asked if we would
                like to go up to his tent on the bank, as he had someone reading the Koran there -
@@ -2619,40 +2629,41 @@
                   >Medinet Abou</placeName> - the sun, however was hours before us, and I thought we
                should <pb n="095"/>have been shrivelled up by its burning rays - but, in spite of
                it, the beautiful ride had its charms, across the green fragrant fields, with the
-               golden mountains beyond, and the Colossi sitting in their eternal strangeness on the
-               border of the desert. After wandering and looking about sometime, <persName
-                  ref="#Salah_Mohammed">M.S.</persName> brought up an Arab who he said was a man to
-               be trusted, and who had dealt for years in antiquities, etc. etc. We were conducted
-               to the seclusion of one of the side chambers, and posting <persName ref="#Jacoub"
-                  >Jacoub</persName> at the entrance to give us warning of the coming of anyone, the
-               Arab produced from some of the inner depths of his dress an exquisite little wooden
-               statuette about 3 inches high of a naked boy with the side lock worn by young
-               princes, with hieroglyphs and scrolls on the base - reminding me of the wooden
-               statuettes I had seen in the <orgName ref="#Boulak_Museum">Boulak</orgName> two years
-               ago. The price he demanded was enormous, and <persName ref="#Davis_Theodore"
-                  >Theodore</persName> would not give it. He swore he had found it three days before
-               at <placeName ref="#el-Asasif">El Assassif</placeName>, a certain part of the
-               necropolis. We were then taken to a tomb lately excavated near the <placeName
-                  ref="#Ramesseum">Ramesseum</placeName> - the paintings were brilliantly fresh,
-               though they were two thousand or more years old - but very crude. There were two
-               chambers - and the heat in them was intense. Our guide said he would like to own this
-               tomb for a home to live in! all his people lived in tombs he said - they were cooler
-               in summer and warmer in winter. We then paid a farewell visit to the <placeName
-                  ref="#Ramesseum">Ramesseum</placeName>, and rode home in time for lunch - in the
-               afternoon going to some very amusing races, got up by the English club at <placeName
-                  ref="#Luxor">Luxor</placeName> - camel - buffalo - donkey races - and amusing
-               matches - a large concourse of people - so many <pb n="096"/>tourists plainly telling
-               of the presence of one of <orgName ref="#Thomas_Cook_and_Son">Cook</orgName>'s
-               steamers. I had a donkey going and coming - and <persName ref="#Buttles_Mary"
-                  >Mary</persName> and <persName ref="#Davis_Theodore">Theodore</persName> made a
-               long detour through the town home, while I under the care of <persName
-                  ref="#Salah_Mohammed">M.S.</persName> and two of the men, came directly home,
-               passing on the <persName ref="#Peter_Grand_Duke">Grand Duke Peter</persName> and his
-               wife of <placeName ref="#Russia">Russia</placeName>, who are spending the winter at
-               the <name type="hotel" ref="#Luxor_Hotel">Luxor Hotel</name>, nice, ordinary looking
-               young people. This evening who should ask entrance but the Arab dealer of the
-               morning, who brought his young prince which <persName ref="#Davis_Theodore"
-                  >Theodore</persName> bought at a great reduction from the original price.</p>
+               golden mountains beyond, and the <name type="monument" ref="#Colossi_of_Memnon"
+                  >Colossi</name> sitting in their eternal strangeness on the border of the desert.
+               After wandering and looking about sometime, <persName ref="#Salah_Mohammed"
+                  >M.S.</persName> brought up an Arab who he said was a man to be trusted, and who
+               had dealt for years in antiquities, etc. etc. We were conducted to the seclusion of
+               one of the side chambers, and posting <persName ref="#Jacoub">Jacoub</persName> at
+               the entrance to give us warning of the coming of anyone, the Arab produced from some
+               of the inner depths of his dress an exquisite little wooden statuette about 3 inches
+               high of a naked boy with the side lock worn by young princes, with hieroglyphs and
+               scrolls on the base - reminding me of the wooden statuettes I had seen in the
+                  <orgName ref="#Boulak_Museum">Boulak</orgName> two years ago. The price he
+               demanded was enormous, and <persName ref="#Davis_Theodore">Theodore</persName> would
+               not give it. He swore he had found it three days before at <placeName
+                  ref="#el-Asasif">El Assassif</placeName>, a certain part of the necropolis. We
+               were then taken to a tomb lately excavated near the <placeName ref="#Ramesseum"
+                  >Ramesseum</placeName> - the paintings were brilliantly fresh, though they were
+               two thousand or more years old - but very crude. There were two chambers - and the
+               heat in them was intense. Our guide said he would like to own this tomb for a home to
+               live in! all his people lived in tombs he said - they were cooler in summer and
+               warmer in winter. We then paid a farewell visit to the <placeName ref="#Ramesseum"
+                  >Ramesseum</placeName>, and rode home in time for lunch - in the afternoon going
+               to some very amusing races, got up by the English club at <placeName ref="#Luxor"
+                  >Luxor</placeName> - camel - buffalo - donkey races - and amusing matches - a
+               large concourse of people - so many <pb n="096"/>tourists plainly telling of the
+               presence of one of <orgName ref="#Thomas_Cook_and_Son">Cook</orgName>'s steamers. I
+               had a donkey going and coming - and <persName ref="#Buttles_Mary">Mary</persName> and
+                  <persName ref="#Davis_Theodore">Theodore</persName> made a long detour through the
+               town home, while I under the care of <persName ref="#Salah_Mohammed">M.S.</persName>
+               and two of the men, came directly home, passing on the <persName
+                  ref="#Peter_Grand_Duke">Grand Duke Peter</persName> and his wife of <placeName
+                  ref="#Russia">Russia</placeName>, who are spending the winter at the <name
+                  type="hotel" ref="#Luxor_Hotel">Luxor Hotel</name>, nice, ordinary looking young
+               people. This evening who should ask entrance but the Arab dealer of the morning, who
+               brought his young prince which <persName ref="#Davis_Theodore">Theodore</persName>
+               bought at a great reduction from the original price.</p>
          </div>
          <div xml:id="EBA18900207" type="Entry">
             <p>
@@ -2705,14 +2716,15 @@
                   >Nubia</name> with her bright lights lying below, looked such a pleasant welcome
                to us. <persName ref="#Ali_Mohammed">Mohammed Ali</persName> came out with the
                lantern to light us down the rough bank, and two or three others came to lead my
-               donkey down and help me to dismount, and Raïs Achmed with the rest about him, stood
-               ready to help us in. Always on coming home in this way there are so many brown hands
-               held out to help and welcome, that I always think of the line from that sweet hymn,
-               "yet there are hands stretched out to draw me near". <persName ref="#Davis_Theodore"
-                  >Theodore</persName> and <persName ref="#Buttles_Mary">Mary</persName> had been
-               counting upon going once more to the temple by moonlight - but alas! the moon hid
-               herself behind clouds - and there was nothing to do but stay at home - play our game
-               of dominoes, and write our journals!</p>
+               donkey down and help me to dismount, and <persName ref="#Achmed_Rais">Raïs
+                  Achmed</persName> with the rest about him, stood ready to help us in. Always on
+               coming home in this way there are so many brown hands held out to help and welcome,
+               that I always think of the line from that sweet hymn, "yet there are hands stretched
+               out to draw me near". <persName ref="#Davis_Theodore">Theodore</persName> and
+                  <persName ref="#Buttles_Mary">Mary</persName> had been counting upon going once
+               more to the temple by moonlight - but alas! the moon hid herself behind clouds - and
+               there was nothing to do but stay at home - play our game of dominoes, and write our
+               journals!</p>
          </div>
          <div xml:id="EBA18900208" type="Entry">
             <p>
@@ -2937,7 +2949,7 @@
             </p>
             <p>The "<name type="vessel" ref="#Rudder_Grange">Rudder Grange</name>" was close by our
                side when <persName ref="#Georgette">Georgette</persName> drew my curtains this
-               morning, and the lofty cliffs of <placeName ref="#Gebel_Abou_Faydah">Gebel
+               morning, and the lofty cliffs of <placeName ref="#Gebel_Abu_el_Feda">Gebel
                   Abou-faydah</placeName> were towering above our heads. <persName
                   ref="#Salah_Mohammed">M.S.</persName> reported at breakfast, that we had only made
                   <measure type="distance">four miles</measure> from last nights anchorage - and the
@@ -3016,17 +3028,18 @@
                frame of desert on either side! Arrived at the tombs, another shrieking scrimmage
                went on, while we waited indignant until the various guides settled some difficulty
                among themselves.</p>
-            <p>These <placeName ref="#Beni_Hassan">Beni Hassan</placeName> tombs of the 12th
-               dynasty, marking one of the finest periods of art in <placeName ref="#Egypt"
-                  >Egypt</placeName>, are so well known - every ordinary student of art is familiar
-               with their graceful and elegant columns, prototypes of the Grecian Doric order of
-               centuries later. The paintings too, are wonderfully rich in variety, and form with
-               the tomb of Ti at <placeName ref="#Sakkarah">Sakkarah</placeName> the richest sources
-               of all our knowledge of Egyptian life and manners of the earlier dynasties. But alas!
-               how disappointing the actual sight of them! Such is the ruin caused, not by time, but
-               by the ruthless hands of travellers from earliest times to our own. It is impossible
-               to make out many of the figures, only familiarity with their representations in
-               books, make them deciperable. And the columns chipped and hacked, their bases almost
+            <p>These <placeName ref="#Beni_Hassan">Beni Hassan</placeName> tombs of the <date
+                  from="-1991" to="-1802">12th dynasty</date>, marking one of the finest periods of
+               art in <placeName ref="#Egypt">Egypt</placeName>, are so well known - every ordinary
+               student of art is familiar with their graceful and elegant columns, prototypes of the
+               Grecian Doric order of centuries later. The paintings too, are wonderfully rich in
+               variety, and form with the <name type="monument" ref="#Tomb_of_Ti">tomb of Ti</name>
+               at <placeName ref="#Sakkarah">Sakkarah</placeName> the richest sources of all our
+               knowledge of Egyptian life and manners of the earlier dynasties. But alas! how
+               disappointing the actual sight of them! Such is the ruin caused, not by time, but by
+               the ruthless hands of travellers from earliest times to our own. It is impossible to
+               make out many of the figures, only familiarity with their representations in books,
+               make them deciperable. And the columns chipped and hacked, their bases almost
                wanting. It is hideous to think of it. Once piece of vandalism dates but a few months
                back, and shows a square chasm in the stone, with its fresh surface. Since then, for
                the first time, these tombs have been placed under the care of guards. The thing that
@@ -3057,7 +3070,7 @@
                warn the cook - as a consequence we had a particularly elaborate dinner, and an
                extraordinary construction in the way of a cake covered with pink icing, and resting
                in a nest of bonbons - crowned by a stan-<pb n="110"/>dard with an attempt at an
-               American flag at the top - all the handiwork of Cook <persName ref="#Ibrahim_Hanna"
+               American flag at the top - all the handiwork of Cook <persName ref="#Ibrahim_Hannah"
                   >Ibrahim</persName>. This, <persName ref="#Salah_Mohammed">M.S.</persName>
                deposited on the table with a grand manner, saying, "C"est le gateau pour M.
                   <persName ref="#Washington_George">Washington</persName>". I plunged into it with
@@ -3143,33 +3156,33 @@
             <p>A calm hot day - our men have worked magnificently, and we are now about <measure
                   type="distance">12 miles</measure> of <placeName ref="#Cairo">Cairo</placeName>.
                We have packed and settled a great many things and have spent most of the day on deck
-               in spite of the heat. The <placeName ref="#Meydum">Meydoum</placeName> pyramid
-               appeared early this morning - then <placeName ref="#Dahshur">Dashour</placeName> and
-               finally the well known outlines of <placeName ref="#Giza">Gizeh</placeName> - and I
-               began to realize that the delicious <placeName ref="#Nile_River">Nile</placeName>
-               life was over. It made us very uncomfortable to see the men sitting in the intense
-               sunlight hour after hour working <pb n="113"/>so hard - but they have all felt it to
-               be the last day, and were under the excitement of the last spurt. The 2d captain
-               stood at his helm like a splendid bronze statue - and had piles of shawls and cloaks
-               on top of his head for protection. Occasionally he would descend to the lower deck
-               and take the place of some weary sailor for a time, and it seemed as if his
-               magnificent strength told at once and he would put new life in the crew. The singer
-               sang his best songs continually, and got off some extraordinary vocal gymnastics.
-                  <persName ref="#Salah_Mohammed">M.S.</persName> even took a hand at the oars once
-               in a while - and two or three times <persName ref="#Achmed_Rais">Räis
-                  Achmed</persName> took a pull himself. About 5 o'clock a fine south wind came up -
-               both sails were hoisted - the tired men put away their oars - the hatches went down,
-               and we were glad to see them resting. We had hoped to stop at <placeName
-                  ref="#Sakkarah">Sakkarah</placeName> for a day - but we are too much behind time.
-               I have told <persName ref="#Salah_Mohammed">M.S.</persName> some days ago, that when
-               we got into <placeName ref="#Cairo">Cairo</placeName> I should give the men a good
-               dinner - with the idea of which they are well pleased. Soon after 5 o'clock I
-               descried the minarets of the <placeName ref="#Citadel">Citadel</placeName>, and for a
-               time, as the moon was bright, we thought we could make <placeName ref="#Cairo"
-                  >Cairo</placeName> this evening. But the river was so low, and so many sand banks,
-               to be avoided, that the Captain pulled up at <placeName ref="#Bedrashyn"
-                  >Bedrasheyn</placeName> for the night, having made over <measure type="distance"
-                  >50 miles</measure> today.</p>
+               in spite of the heat. The <name type="monument" ref="#Meydum_pyramid"><placeName
+                     ref="#Meydum">Meydoum</placeName> pyramid</name> appeared early this morning -
+               then <placeName ref="#Dahshur">Dashour</placeName> and finally the well known
+               outlines of <placeName ref="#Giza">Gizeh</placeName> - and I began to realize that
+               the delicious <placeName ref="#Nile_River">Nile</placeName> life was over. It made us
+               very uncomfortable to see the men sitting in the intense sunlight hour after hour
+               working <pb n="113"/>so hard - but they have all felt it to be the last day, and were
+               under the excitement of the last spurt. The 2d captain stood at his helm like a
+               splendid bronze statue - and had piles of shawls and cloaks on top of his head for
+               protection. Occasionally he would descend to the lower deck and take the place of
+               some weary sailor for a time, and it seemed as if his magnificent strength told at
+               once and he would put new life in the crew. The singer sang his best songs
+               continually, and got off some extraordinary vocal gymnastics. <persName
+                  ref="#Salah_Mohammed">M.S.</persName> even took a hand at the oars once in a while
+               - and two or three times <persName ref="#Achmed_Rais">Räis Achmed</persName> took a
+               pull himself. About 5 o'clock a fine south wind came up - both sails were hoisted -
+               the tired men put away their oars - the hatches went down, and we were glad to see
+               them resting. We had hoped to stop at <placeName ref="#Sakkarah">Sakkarah</placeName>
+               for a day - but we are too much behind time. I have told <persName
+                  ref="#Salah_Mohammed">M.S.</persName> some days ago, that when we got into
+                  <placeName ref="#Cairo">Cairo</placeName> I should give the men a good dinner -
+               with the idea of which they are well pleased. Soon after 5 o'clock I descried the
+               minarets of the <placeName ref="#Citadel">Citadel</placeName>, and for a time, as the
+               moon was bright, we thought we could make <placeName ref="#Cairo">Cairo</placeName>
+               this evening. But the river was so low, and so many sand banks, to be avoided, that
+               the Captain pulled up at <placeName ref="#Bedrashyn">Bedrasheyn</placeName> for the
+               night, having made over <measure type="distance">50 miles</measure> today.</p>
          </div>
          <div xml:id="EBA18900228" type="Entry">
             <p>
@@ -3236,14 +3249,14 @@
                sit on the terrace in the evening in a light dress, and <pb n="116"/>without wraps. A
                council of war was held today - and all our plans are changed. My cherished idea of
                spending several days at the <name type="hotel" ref="#Mena_Hotel">Mena Hotel</name>
-               at the <placeName ref="#Pyramids">Pyramids</placeName> has to be resigned - as no
-               rooms can be had there for weeks - so in place of staying in <placeName ref="#Egypt"
-                  >Egypt</placeName> for <measure type="time">10 days</measure> longer, we sail next
-               Monday for <placeName ref="#Brindisi">Brindisi</placeName> in one of the <orgName
-                  ref="#Austrian_LLoyd_Shipping_Line">Austrian Lloyd</orgName> boats - being afraid
-               to trust the Italian <orgName ref="#Rabitino_Line">Rabitino line</orgName> to
-                  <placeName ref="#Naples">Naples</placeName>. We are rushing now - dozens of things
-               to be done - and no time to do them in.</p>
+               at the <name type="monument" ref="#Giza_Pyramids">Pyramids</name> has to be resigned
+               - as no rooms can be had there for weeks - so in place of staying in <placeName
+                  ref="#Egypt">Egypt</placeName> for <measure type="time">10 days</measure> longer,
+               we sail next Monday for <placeName ref="#Brindisi">Brindisi</placeName> in one of the
+                  <orgName ref="#Austrian_LLoyd_Shipping_Line">Austrian Lloyd</orgName> boats -
+               being afraid to trust the Italian <orgName ref="#Rabitino_Line">Rabitino
+                  line</orgName> to <placeName ref="#Naples">Naples</placeName>. We are rushing now
+               - dozens of things to be done - and no time to do them in.</p>
          </div>
          <div xml:id="EBA18900302" type="Entry">
             <p>
@@ -3274,7 +3287,7 @@
                is going directly to Paris - and I am now able to get on without her. I gave the nice
                little <name type="animal" ref="#Mena_pet">Mena</name> to her, with some extra money
                to pay his expenses. After an early breakfast, we drove directly to <placeName
-                  ref="#G">Gizeh</placeName>, to a private dealer in antiquities, where we stayed
+                  ref="#Giza">Gizeh</placeName>, to a private dealer in antiquities, where we stayed
                until 12 o'clock, bringing home some charming things. More packing then, and general
                adieux - and I rushed off in the carriage with <persName ref="#Salah_Mohammed"
                   >M.S.</persName> for a visit to the <placeName ref="#Mosque_of_Amru">Mosque of
@@ -3783,7 +3796,7 @@
                   ref="#Palazzo_Pallavicini_Rospigliosi">Rospigliosa Palace</placeName> to see
                   <persName ref="#Reni_Guido">Guido Reni</persName>'s lovely <name type="artwork"
                   ref="#Aurora">Aurora</name>, and then to the <placeName
-                  ref="Basilica_of_S_Lorenzo_in_Lucina">church of S. Lorenzo in Lucina</placeName>
+                  ref="#Basilica_of_S_Lorenzo_in_Lucina">church of S. Lorenzo in Lucina</placeName>
                to see his <name type="artwork" ref="#Christ_on_the_Cross">crucifixion</name> - but
                all the pounding and ringing that we could do, did not open the church to us - so
                quite disgusted, we climbed again into the carriage, and drove to <placeName
@@ -3800,13 +3813,13 @@
                   ref="#Pantheon">Pantheon</placeName>, and found it closed - before which, after
                leaving S. Paolo, we went to the lovely English cemetery, against the old walls of
                   <placeName ref="#Rome">Rome</placeName>, near the pyra-<pb n="135"/>mid tomb of
-               Caius Castius. Its solemn <rs type="plant" ref="#yew">yew</rs> trees, amongst which
-               the birds were singing, and underneath the flowers were blooming on the quiet graves,
-               made us say as we always do on that spot, that we would rather be buried there, than
-               anywhere else. Then we drove to the grounds of the <placeName ref="#Villa_Borghese"
-                  >Villa Borghese</placeName>, and saw <persName ref="#Umberto_King">King
-                  Umberto</persName> driving in a plain victoria, and the Queen in her carriage with
-               her scarlet liveries.</p>
+                  <persName ref="#Castius_Caius">Caius Castius</persName>. Its solemn <rs
+                  type="plant" ref="#yew">yew</rs> trees, amongst which the birds were singing, and
+               underneath the flowers were blooming on the quiet graves, made us say as we always do
+               on that spot, that we would rather be buried there, than anywhere else. Then we drove
+               to the grounds of the <placeName ref="#Villa_Borghese">Villa Borghese</placeName>,
+               and saw <persName ref="#Umberto_King">King Umberto</persName> driving in a plain
+               victoria, and the Queen in her carriage with her scarlet liveries.</p>
          </div>
          <div xml:id="EBA18900324" type="Entry">
             <p>
@@ -3815,12 +3828,13 @@
             <p>Drove this morning to the <placeName ref="#Baths_of_Caracalla">Baths of
                   Caracalla</placeName>, which I had not seen for 7 years - and I walked about
                everywhere, amazed at such mighty ruins. Then we drove to the <placeName
-                  ref="#Lateran">Lateran</placeName>, which is almost as cold and uninteresting as
-                  <placeName ref="#S_Paola_fuori_le_Pura">S. Paola fuori le Pura</placeName>. In the
-               afternoon we made a visit to <persName ref="#Castellani_Signor">Signor
-                  Castellani</persName>, and <persName ref="#Davis_Theodore">Theodore</persName>
-               bought some lovely presents. Then we went to a sale of antiquities, and <persName
-                  ref="#Buttles_Mary">Mary</persName> and I did a little private shopping.</p>
+                  ref="#Archbasilica_of_St._John_Lateran">Lateran</placeName>, which is almost as
+               cold and uninteresting as <placeName ref="#S_Paola_fuori_le_Pura">S. Paola fuori le
+                  Pura</placeName>. In the afternoon we made a visit to <persName
+                  ref="#Castellani_Signor">Signor Castellani</persName>, and <persName
+                  ref="#Davis_Theodore">Theodore</persName> bought some lovely presents. Then we
+               went to a sale of antiquities, and <persName ref="#Buttles_Mary">Mary</persName> and
+               I did a little private shopping.</p>
          </div>
          <div xml:id="EBA18900325" type="Entry">
             <p>
@@ -3921,23 +3935,23 @@
             <p>
                <title><date when="1890-03-30">March 30th</date>, Palm Sunday.</title>
             </p>
-            <p>Being told we would hear some grand music at the <placeName ref="#Latoran_Church"
-                  >Latoran church</placeName>, we provided ourselves with camp stools, and drove
-               there. As is customary in Holy Week, no organ was played. The music was good but
-               simple, but there was little satisfaction in listening to it, in such a moving
-               shuffling crowd - and the church was deadly cold, so we soon came away, and went into
-               the Baptistry, a much more interesting place - then - having an hour before luncheon,
-               we drove to <placeName ref="#S_Clementi">S. Clementi</placeName> and to <placeName
-                  ref="#S_Prassodo">S. Prassodo</placeName>, and then to <placeName
-                  ref="#S_Pudenziana">S. Pudenziana</placeName>, all of which, <persName
-                  ref="#Knagenhjelm_Nellie">Nellie</persName> and I saw most thoroughly two winters
-               ago. In the afternoon we went over to <placeName ref="#Saint_Peters_Basilica">St.
-                  Peters</placeName> to hear the low mass - the music most solemn and beautiful - no
-               organ - I walked all about the great church, and took farewell views of all my
-               favorite points, and drove home regretfully. I have never been in <placeName
-                  ref="#Rome">Rome</placeName> when the weather was so warm before. Our windows have
-               been open most of the time - no fires necessary - and the sun excluded. The flowers
-               now are most lovely and plentiful.</p>
+            <p>Being told we would hear some grand music at the <placeName
+                  ref="#Archbasilica_of_St._John_Lateran">Latoran church</placeName>, we provided
+               ourselves with camp stools, and drove there. As is customary in Holy Week, no organ
+               was played. The music was good but simple, but there was little satisfaction in
+               listening to it, in such a moving shuffling crowd - and the church was deadly cold,
+               so we soon came away, and went into the Baptistry, a much more interesting place -
+               then - having an hour before luncheon, we drove to <placeName ref="#S_Clementi">S.
+                  Clementi</placeName> and to <placeName ref="#S_Prassodo">S. Prassodo</placeName>,
+               and then to <placeName ref="#S_Pudenziana">S. Pudenziana</placeName>, all of which,
+                  <persName ref="#Knagenhjelm_Nellie">Nellie</persName> and I saw most thoroughly
+               two winters ago. In the afternoon we went over to <placeName
+                  ref="#Saint_Peters_Basilica">St. Peters</placeName> to hear the low mass - the
+               music most solemn and beautiful - no organ - I walked all about the great church, and
+               took farewell views of all my favorite points, and drove home regretfully. I have
+               never been in <placeName ref="#Rome">Rome</placeName> when the weather was so warm
+               before. Our windows have been open most of the time - no fires necessary - and the
+               sun excluded. The flowers now are most lovely and plentiful.</p>
          </div>
          <div xml:id="EBA18900331" type="Entry">
             <p>
@@ -4004,14 +4018,14 @@
                Campo Santo of the whole place. The interior arrangement is peculiar - and the
                pavement and marble work of the choir, is of the <date from="1201" to="1300">13th
                   century</date> and very beautiful and curious. From <placeName ref="#S_Miniato">S.
-                  Miniato</placeName> we drove to <placeName ref="S_Croce">S. Croce</placeName>,
+                  Miniato</placeName> we drove to <placeName ref="#S_Croce">S. Croce</placeName>,
                where a service was going on, with some solemn and delicious music - the church in a
                half twilight, with the twinkling lights of the altars, with its simple and noble
                proportions, was more impressive than I have ever seen it - and the tombs of
                   <placeName ref="#Italy">Italy</placeName>'s mighty dead - <persName
-                  ref="#Dante_Alghieri">Dante</persName>, <persName ref="#Michelangelo">Michael
-                  Angelo</persName>, <persName ref="#Galileo">Galileo</persName> etc. smite one with
-               feelings of awe. It was a lovely visit.</p>
+                  ref="#Dante_Alighieri">Dante</persName>, <persName ref="#Michelangelo">Michael
+                  Angelo</persName>, <persName ref="#Galilei_Galileo">Galileo</persName> etc. smite
+               one with feelings of awe. It was a lovely visit.</p>
          </div>
          <pb n="141"/>
          <div xml:id="EBA18900403" type="Entry">
@@ -4053,7 +4067,7 @@
                <title><date when="1890-04-05">Saturday. April 5th</date>.</title>
             </p>
             <p>I drove <persName ref="#Davis_Theodore">Theodore</persName> and <persName
-                  ref="Buttles_Mary">Mary</persName> over to the <placeName ref="#Pitti_Palace"
+                  ref="#Buttles_Mary">Mary</persName> over to the <placeName ref="#Pitti_Palace"
                   >Pitti</placeName> this morning, but did not venture in myself. I went to some
                shops, and to the interesting <placeName ref="#Church_of_Or_San_Michele">church of Or
                   San Michele</placeName> - a little service was going on, and I sat down on one of
@@ -4239,7 +4253,7 @@
                exhibition, and if we had waited until the afternoon, we would have seen a lot of
                notable people, <persName ref="#Gladstone_William">Mr. Gladstone</persName> among
                others.</p>
-            <p>On Friday, we went to <orgName ref="#Mintons">Minton</orgName>'s and chose some
+            <p>On Friday, we went to <orgName ref="#Minton">Minton</orgName>'s and chose some
                beautiful new china. On Saturday morning <persName ref="#Farrar_Gaspard">Mr. Gaspard
                   Farrar</persName> called, and asked <persName ref="#Davis_Theodore"
                   >Theodore</persName> to dinner, where he is this evening. Then we walked around to
@@ -4378,21 +4392,22 @@
             </p>
             <p>We brought our pleasant and all too short visit to <placeName ref="#London"
                   >London</placeName> to an end this afternoon - leaving there at 4.30. We looked
-               longingly at <placeName ref="#Winchester"
-                        ><choice><sic>Windhester</sic><corr>Winchester</corr></choice></placeName>
-               as we came by, but hoped to see it tomorrow as our S.S. is not expected until
-               afternoon. We left <placeName ref="#Cambridge">Cambridge</placeName> last Monday
-               morning, and were soon plunged into <placeName ref="#London">London</placeName>
-               engagements and business. <persName ref="#Davis_Theodore">Theodore</persName> and I
-               did some necessary shopping, and <persName ref="#Austin_Constance"
-                  >Constance</persName> and <persName ref="#Buttles_Mary">Mary</persName> went to
-               the <orgName ref="#Royal_Society_of_Water_Colours">Royal Society of Water
-                  Colours</orgName>. In the evening <persName ref="#Davis_Theodore"
-                  >Theodore</persName> and I dined with the <orgName ref="#Lidderdales"
-                  >Lidderdales</orgName> - a trifle heavy - but as I know so little about English
-               society I always feel like assisting in a novel, when I go into it - and like to
-               study the people. <persName ref="#Lidderdale_Mr">Mr. L</persName>. was as delightful
-               as he always is.</p>
+               longingly at <placeName ref="#Winchester"><choice>
+                     <sic>Windhester</sic>
+                     <corr>Winchester</corr>
+                  </choice></placeName> as we came by, but hoped to see it tomorrow as our S.S. is
+               not expected until afternoon. We left <placeName ref="#Cambridge"
+                  >Cambridge</placeName> last Monday morning, and were soon plunged into <placeName
+                  ref="#London">London</placeName> engagements and business. <persName
+                  ref="#Davis_Theodore">Theodore</persName> and I did some necessary shopping, and
+                  <persName ref="#Austin_Constance">Constance</persName> and <persName
+                  ref="#Buttles_Mary">Mary</persName> went to the <orgName
+                  ref="#Royal_Society_of_Water_Colours">Royal Society of Water Colours</orgName>. In
+               the evening <persName ref="#Davis_Theodore">Theodore</persName> and I dined with the
+                  <orgName ref="#Lidderdale">Lidderdales</orgName> - a trifle heavy - but as I know
+               so little about English society I always feel like assisting in a novel, when I go
+               into it - and like to study the people. <persName ref="#Lidderdale_Mr">Mr.
+                  L</persName>. was as delightful as he always is.</p>
             <p>The next day <persName ref="#Austin_Constance">Constance</persName> left us to pay a
                visit to some friends just outside <placeName ref="#London">London</placeName>. In
                the evening <persName ref="#Davis_Theodore">Theodore</persName>, <persName
